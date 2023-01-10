@@ -7,7 +7,7 @@ url: "https://drinkcoffee.github.io" # the base hostname & protocol for your sit
 twitter_username: drinkcoffee2010
 github_username:  drinkcoffee
 linkedin_username: peter-robinson-98a0061
-site.telegram_username: drinkcoffee2022
+telegram_username: drinkcoffee2022
 
 # Build settings
 markdown: kramdown
