@@ -4,13 +4,13 @@ title: Granted Patents
 permalink: /pubs/patents/
 ---
 
-When I worked at RSA (which became EMC, then Dell, and then RSA again), inventions sometimes were lodged as patents at the US Patent Office. At ConsenSys, the policy has been to make all new ideas public as soon as possible, rather than trying to keep good ideas secret and using patent protection. This approach makes a lot of sense in the fast moving, generally open source, blockchain environment. To see the patents on the US Patent website, go to https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html, and then do a "basic search", specifying the "Inventor name" as "Robinson" and the "Assignee name" as "EMC".
+When I worked at RSA (which became EMC, then Dell, and then RSA again), inventions sometimes were lodged as patents at the US Patent Office. At ConsenSys, the policy has been to make all new ideas public as soon as possible, rather than trying to keep good ideas secret and using patent protection. This approach makes a lot of sense in the fast moving, generally open source, blockchain environment.
 
 
 # Cryptography
-Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. 2013. Using multiples above two with running totals and reference values other than 0 and 2 (window size) in elliptic curve cryptography scalar multiplication acceleration tables. US 8,498,411, issued July 30, 2013.
+Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Using multiples above two with running totals and reference values other than 0 and 2 (window size) in elliptic curve cryptography scalar multiplication acceleration tables.](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8498411) US 8,498,411, issued July 30, 2013.
 
-Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. 2013. Using multiples above two with running totals in elliptic curve cryptography scalar multiplication acceleration tables. US 8,428,252, issued April 23, 2013.
+Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. Using multiples above two with running totals in elliptic curve cryptography scalar multiplication acceleration tables. US 8,428,252, issued April 23, 2013.
 
 Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. 2013. Size optimization for large elliptic curve cryptography scalar multiplication acceleration tables.
 US 8,411,855, issued April 2, 2013.
@@ -18,7 +18,15 @@ US 8,411,855, issued April 2, 2013.
 Robinson, Peter; Makepeace, David; Brown, Jaimee. 2013. Elliptic curve cryptography scalar multiplication with on demand acceleration table generation. US 8,345,864, issued January 1, 2013.
 
 Robinson, Peter; Parkinson, Sean; Young, Eric. 2017. Computer Data Protection using Tunable Key Derivation Function. US 9,594,918, issued March 14 2017.
-Patent date Issued Mar 14, 2017  Patent issuer and number us 9,594,918
+Patent date Issued Mar 14, 2017  
+
+Robinson, Peter; 2019. [Communicating service encryption key to interceptor for monitoring encrypted communications](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10237306). US 10,237,306. Issued: March 2019.
+
+# Blockchain
+Robinson, Peter; Young, Eric. 2020. [Methods and apparatus for blockchain encryption](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10601585).
+US 10,601,585. Issued: March 2020
+
+
 
 
 # Virtualization Security
@@ -47,9 +55,4 @@ Robinson, Peter; Brown, Jaimee; Young, Eric. 2016. Multi-server authentication u
 Robinson, Peter; Healy, David; Triandopoulos, Nicoloas. 2016. Secure storage and retrieval of data in a database with multiple data classes and multiple data identifiers. US 9,455,973, issued September 27, 2016
 
 Machani, Salah; Robinson, Peter. 2017. Automatic propagation of password updates on multiple devices. US 9,648,012, issued May 9, 2017.
-
-Standards Contribution
-Acknowledged as a contributor to:
-Rescorla E, Ray, M., Dispensa, S., Oskov, N. (2010 February) RFC 5746, Transport Layer Security (TLS) Renegotiation Indication Extension, IETF. 
-
 
