@@ -1,17 +1,29 @@
 
-- title: "Blog"
-  href: "/blog/"
+# - title: "Blog"
+#  href: "/blog/"
+#
+#- title: "CV"
+#  href: "/cv/"
+#
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Item 1"
+#      subhref: "/miscellany/item-1/"
+#    - subtitle: "Item 2"
+#      subhref: "/miscellany/item-2/"
 
-- title: "CV"
-  href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Publications"
+  href: "/pubs/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Papers"
+      subhref: "/pubs/papers/"
+    - subtitle: "Patents"
+      subhref: "/pubs/patents/"
+    - subtitle: "Talks"
+      subhref: "/pubs/talks/"
+    - subtitle: "Standards"
+      subhref: "/pubs/standards/"
 
 - title: "BIO"
   href: "/bio/"
