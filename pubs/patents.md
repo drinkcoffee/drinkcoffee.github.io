@@ -8,36 +8,41 @@ When I worked at RSA (which became EMC, then Dell, and then RSA again), inventio
 
 
 # Cryptography
-Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Using multiples above two with running totals and reference values other than 0 and 2 (window size) in elliptic curve cryptography scalar multiplication acceleration tables.](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8498411) US 8,498,411, issued July 30, 2013.
+Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Using multiples above two with running totals and reference values other than 0 and 2 (window size) in elliptic curve cryptography scalar multiplication acceleration tables](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8498411). US 8,498,411. Issued: July 30, 2013.
 
-Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. Using multiples above two with running totals in elliptic curve cryptography scalar multiplication acceleration tables. US 8,428,252, issued April 23, 2013.
+Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Using multiples above two with running totals in elliptic curve cryptography scalar multiplication acceleration tables](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8428252). US 8,428,252. Issued: April 23, 2013.
 
-Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. 2013. Size optimization for large elliptic curve cryptography scalar multiplication acceleration tables.
-US 8,411,855, issued April 2, 2013.
+Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Size optimization for large elliptic curve cryptography scalar multiplication acceleration tables](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8411855). US 8,411,855. Issued: April 2, 2013.
 
-Robinson, Peter; Makepeace, David; Brown, Jaimee. 2013. Elliptic curve cryptography scalar multiplication with on demand acceleration table generation. US 8,345,864, issued January 1, 2013.
+Robinson, Peter; Makepeace, David; Brown, Jaimee. [Elliptic curve cryptography scalar multiplication with on demand acceleration table generation](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8345864). US 8,345,864. Issued January 1, 2013.
 
 Robinson, Peter; Parkinson, Sean; Young, Eric. 2017. Computer Data Protection using Tunable Key Derivation Function. US 9,594,918, issued March 14 2017.
-Patent date Issued Mar 14, 2017  
+Patent date Issued Mar 14, 2017 .
 
-Robinson, Peter; 2019. [Communicating service encryption key to interceptor for monitoring encrypted communications](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10237306). US 10,237,306. Issued: March 2019.
+
+Triandopoulos, Nicoloasl Robinson, Peter; Machani, Salah. [Proactivized threshold password-based secret sharing with flexible key rotation](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10084596). US 10,084,596. Issued: September 25, 2018.
+
+Robinson, Peter; Young, Eric. [Server using proof-of-work technique for hardening against denial of service attacks](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10116693). US 10,116,693. Issued: October 30, 2018.
+
+Robinson, Peter; 2019. [Communicating service encryption key to interceptor for monitoring encrypted communications](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10237306). US 10,237,306. Issued: March 19, 2019.
+
 
 # Blockchain
-Robinson, Peter; Young, Eric. 2020. [Methods and apparatus for blockchain encryption](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10601585).
-US 10,601,585. Issued: March 2020
-
-
+Robinson, Peter; Young, Eric. [Methods and apparatus for blockchain encryption](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10601585).
+US 10,601,585. Issued: March 24, 2020
 
 
 # Virtualization Security
-Robinson, Peter; Foley, Mike; Young, Eric. 2013. Computer system employing dual-band authentication using file operations by trusted and untrusted mechanisms, US 8,601,544, issued December 3, 2013.
+Robinson, Peter; Foley, Mike; Young, Eric. [Computer system employing dual-band authentication using file operations by trusted and untrusted mechanisms](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8345864). US 8,601,544. Issued December 3, 2013.
 
 Robinson, Peter. 2014. Managing authentication of virtual clients. US 8,739,257, issued May 27, 2014.
 
 Robinson, Peter. 2016. Computer system employing dual-band authentication. US 9,240,988, issued January 19, 2016.
 
-# Android Security also with application to Virtualization
+# Mobile Device Security also with application to Virtualization
 Robinson, Peter; Pingel, Stefan; Sandhu, Geetu; Brown, Jaimee. 2014. Integrity self-check of secure code within a VM environment using native VM code. US 8,707,050, issued April 22, 2014.
+
+Robinson, Peter; Triandopoulos, Nicoloas. [Secure containers for flexible credential protection in devices](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9703965). US 9,703,965. Issued: July 11, 2017.
 
 # Distributed Computing
 Robinson, Peter; Parkinson, Sean; Kaur, Kanchan. 2014. Message bus key agreement scheme. US 8,856,531, issued October 8, 2014.
@@ -54,5 +59,9 @@ Robinson, Peter; Brown, Jaimee; Young, Eric. 2016. Multi-server authentication u
 
 Robinson, Peter; Healy, David; Triandopoulos, Nicoloas. 2016. Secure storage and retrieval of data in a database with multiple data classes and multiple data identifiers. US 9,455,973, issued September 27, 2016
 
-Machani, Salah; Robinson, Peter. 2017. Automatic propagation of password updates on multiple devices. US 9,648,012, issued May 9, 2017.
+Machani, Salah; Robinson, Peter. [Automatic propagation of password updates on multiple devices](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/9648012). US 9,648,012, issued May 9, 2017.
+
+
+# Graphical Password Design
+Robinson, Peter. [Graphical password generation](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/10127376). US 10,127,376. Issued: November 13, 2018.
 
