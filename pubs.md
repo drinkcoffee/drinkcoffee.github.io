@@ -7,6 +7,7 @@ permalink: /pubs/
 Publications fall into several categories:
 
 * [Journal, Conference and Open Access Papers](./papers/)
-* Granted Patents
-* Talks
-* Standards
+* [Granted Patents](./patents/)
+* [Talks](./talks/)
+* [Standards](./standards/)
+
