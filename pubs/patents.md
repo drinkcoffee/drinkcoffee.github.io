@@ -4,10 +4,9 @@ title: Granted Patents
 permalink: /pubs/patents/
 ---
 
-When I worked at RSA (which became EMC, then Dell, and then RSA again), inventions sometimes were lodged as patents at the US Patent Office. At ConsenSys, the policy has been to make all new ideas public as soon as possible, rather than trying to keep good ideas secret and using patent protection. This approach makes a lot of sense in the fast moving, generally open source, blockchain environment.
+When I worked at RSA (which became EMC, then Dell, and then RSA again), inventions sometimes were submitted as patent applications at the US Patent Office. The list below shows my granted patents for inventions between 2006 to 2016. Due to the lag between patent application filing and patent granting, the patent grant dates are between 2013 and 2020. 
 
-For a full list of patents, go to https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html, choose basic search, specify Inventor name as Robinson and Assignee name as EMC .
-
+I have invented lots of things while at other companies, and lots of other things while at RSA. Whether a company decides to a file patent application for an idea depends on how important the idea is perceived to be to the company, whether the company can afford the significant cost of filing patents, whether the company perceives it will be able to defend a patent if it is infringed, and the patent policy of the company. At ConsenSys, the policy has been to make all new ideas public as soon as possible, rather than trying to keep good ideas secret and filing patents. This approach makes a lot of sense in the fast moving, mostly open source, blockchain environment.
 
 
 # Cryptography
