@@ -6,6 +6,9 @@ permalink: /pubs/patents/
 
 When I worked at RSA (which became EMC, then Dell, and then RSA again), inventions sometimes were lodged as patents at the US Patent Office. At ConsenSys, the policy has been to make all new ideas public as soon as possible, rather than trying to keep good ideas secret and using patent protection. This approach makes a lot of sense in the fast moving, generally open source, blockchain environment.
 
+For a full list of patents, go to https://ppubs.uspto.gov/pubwebapp/static/pages/ppubsbasic.html, choose basic search, specify Inventor name as Robinson and Assignee name as EMC .
+
+
 
 # Cryptography
 Robinson, Peter; Parkinson, Sean; Makepeace, David; Hibberd, Mark. [Using multiples above two with running totals and reference values other than 0 and 2 (window size) in elliptic curve cryptography scalar multiplication acceleration tables](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/8498411). US 8,498,411. Issued: July 30, 2013.
