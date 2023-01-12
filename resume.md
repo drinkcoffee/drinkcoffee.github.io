@@ -10,7 +10,7 @@ permalink: /resume/
 
 **Co-founding of Protocols business unit (PegaSys)**: During 2017 and early-2018 my focus was hiring a team, building culture, establishing processes and creating a world class research & development group. 
 
-**[Crosschain & Bridges](./projects/crosschain/)**: From 2018 onwards, I have mainly researched a range of protocols that facilitate cross-blockchain communications. I invented the following protocols:
+**[Crosschain & Bridges](../projects/crosschain/)**: From 2018 onwards, I have mainly researched a range of protocols that facilitate cross-blockchain communications. I invented the following protocols:
 
 * General Purpose Atomic Crosschain Transactions (GPACT): Enables composable programming across blockchains. Allows for inter-contract and inter-blockchain function calls that are both synchronous and atomic: if one part fails, the whole call execution tree of function calls is rolled back.
 * Crosschain Protocol Stack: Describes how applications, function call, and messaging components can interoperate. 
