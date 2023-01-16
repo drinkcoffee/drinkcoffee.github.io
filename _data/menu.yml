@@ -4,6 +4,11 @@
 #
 - title: "Education"
   href: "/education/"
+  subcategories:
+    - subtitle: "University Qualifications"
+      subhref: "/education/university/"
+    - subtitle: "Certifications"
+      subhref: "/education/certifications/"
 
 - title: "Experience"
   href: "/experience/"
