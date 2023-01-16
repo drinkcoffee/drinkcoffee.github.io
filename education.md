@@ -4,7 +4,7 @@ title: Education
 permalink: /education/
 ---
 
-[University Qualifications](./education/university)
+[University Qualifications](./education/university/)
 
-[Certifications](./education/certifications)
+[Certifications](./education/certifications/)
 

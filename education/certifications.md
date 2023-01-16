@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certifications
-permalink: /certifications/
+permalink: /education/certifications/
 ---
 
 # Certified Scrum MasterCertified Scrum Master

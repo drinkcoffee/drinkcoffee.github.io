@@ -1,7 +1,7 @@
 ---
 layout: page
 title: University Qualifications
-permalink: /education/university
+permalink: /education/university/
 ---
 
 # Doctor of Philosophy (August 2016 to September 2022)
