@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: Experience
+permalink: /experience/
 ---
 
 # ConsenSys (July 2017 to Present): Technical Directory & Applied Cryptographer

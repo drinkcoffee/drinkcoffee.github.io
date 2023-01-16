@@ -2,8 +2,11 @@
 # - title: "Blog"
 #  href: "/blog/"
 #
-- title: "Resume"
-  href: "/resume/"
+- title: "Education"
+  href: "/education/"
+
+- title: "Experience"
+  href: "/experience/"
 
 - title: "Projects"
   href: "/projects/"
