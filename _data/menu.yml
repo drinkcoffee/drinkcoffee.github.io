@@ -13,11 +13,11 @@
 - title: "Experience"
   href: "/experience/"
 
-- title: "Projects"
-  href: "/projects/"
-  subcategories:
-    - subtitle: "Crosschain"
-      subhref: "/projects/crosschain/"
+# - title: "Projects"
+#   href: "/projects/"
+#   subcategories:
+#     - subtitle: "Crosschain"
+#       subhref: "/projects/crosschain/"
 
 - title: "Publications"
   href: "/pubs/"
@@ -31,5 +31,5 @@
     - subtitle: "Standards"
       subhref: "/pubs/standards/"
 
-- title: "BIO"
-  href: "/bio/"
+# - title: "BIO"
+#  href: "/bio/"
