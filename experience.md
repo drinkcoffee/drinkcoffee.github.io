@@ -17,7 +17,7 @@ permalink: /experience/
 * Anonymous State Pinning: State pinning approach that preserved privacy of pinned chain.
 * Atomic Crosschain Transactions: Provides similar capabilities to GPACT. However, requires changes to blockchain clients to operate.
 
-**Filecoin Secondary Retrieval Market**: In late 2020 and the first half of 2021 I worked with Protocol Labs to determine requirements, architect, and lead a team that delivered a system to allow for massive scaling of the data retrieval system in Filecoin. 
+**Filecoin Secondary Retrieval Market**: In late 2020 and the first half of 2021 I worked with Protocol Labs to determine requirements, architect, and lead a team that delivered a system to allow for massive scaling of the data retrieval system in Filecoin. The architecture for the system is described here: [https://www.youtube.com/watch?v=5NUfUHRbCFs](https://www.youtube.com/watch?v=5NUfUHRbCFs).
 
 **Other Projects**: In addition to the large projects described above I also did the following smaller projects:
 
@@ -30,6 +30,13 @@ permalink: /experience/
 # Ethereum Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
 The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 32K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. 
 
+
+# Digital Finance Cooperative Research Centre: (July 2022 – Present): Advisor
+I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on crosschain protocols and Solidity contracts.
+
+
+# Multiple Projects: Advisor: (2016 - Present):
+I am an advisor on multiple projects. I give guidance and am a sounding board for ideas on varied topics including: DeFi, crosschain, blockchain, cryptography, protocol design, development process, leadership, management, and recruitment. The projects range in maturity, though most are early stage / stealth.
 
 
 
