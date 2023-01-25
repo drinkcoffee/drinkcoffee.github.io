@@ -31,11 +31,11 @@ permalink: /experience/
 The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 32K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. 
 
 
-# Digital Finance Cooperative Research Centre: (July 2022 – Present): Advisor
+# Digital Finance Cooperative Research Centre (July 2022 – Present): Advisor
 I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on crosschain protocols and Solidity contracts.
 
 
-# Multiple Projects: Advisor: (2016 - Present):
+# Multiple Projects (2016 - Present): Advisor
 I am an advisor on multiple projects. I give guidance and am a sounding board for ideas on varied topics including: DeFi, crosschain, blockchain, cryptography, protocol design, development process, leadership, management, and recruitment. The projects range in maturity, though most are early stage / stealth.
 
 
