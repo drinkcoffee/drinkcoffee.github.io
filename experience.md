@@ -38,6 +38,29 @@ I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on cross
 # Multiple Projects (2016 - Present): Advisor
 I am an advisor on multiple projects. I give guidance and am a sounding board for ideas on varied topics including: DeFi, crosschain, blockchain, cryptography, protocol design, development process, leadership, management, and recruitment. The projects range in maturity, though most are early stage / stealth.
 
+# Smart Contract Application Browser Open Source Project (May to August 2017), Founder
+The Smart Contract Application Browser (SCAB) aimed to be a browser and app store for the Blockchain / Smart Contract era. The goals of the project are to solve the user interface and key management problems which are impeding the adoption of Smart Contracts. In the first instance, the project targeted the Ethereum blockchain platform and Android.
+
+A Smart Contract Application, also known as a Decentralized Application (Dapp), combines code on a blockchain (smart contract), client side code and GUI, and cryptographic keys used to identify the parties involved in the contract.
+
+The SCAB is an application which runs on an end point such as a mobile phone, tablet or computer. The Dapp GUI and client side code runs in a sandbox in the SCAB, in a similar way to how HTML and Javascript run in a sandbox in a web browser. Similarly to how web browsers can display content from many websites, the SCAB can display the GUI of many contracts.
+
+The keys used to identify the user sit outside of the sandbox. When the SCAB interprets code in the Dapp client side code which executes a funciton call on the smart contract, the SCAB creates a blockchain transaction for the smart contract call and uses the user's key to sign the transaction. 
+
+The SCAB project only progressed to early stages of development. The goals of the SCAB were:
+
+* Simpler Dapp authoring and deployment process.
+* Limit Dapp access to keys.
+* Abstract complex security issues such as key sharing between devices away from general application developers. 
+* Cross-blockchain platform: Ethereum (initial support), Hyperledger Fabric.
+* Cross-device platform: Android(initial support), iOS, Web Browser, Windows, Mac, Linux.
+
+The project is available on Github: https://github.com/nelladragon/scab 
+
+# Oracle Labs (January to May 2017): Senior Development Manager
+Oracle Labs is the research arm for Oracle, focusing on applied research that produces new technologies of interest to Oracle. Oracle Labs, Australia, focuses on Program Analysis as it applies to a variety of domains including bug-checking, security analysis, enhancing productivity, and testing. I managed the Advanced Development Engineering team of the Program Analysis group. This team in combination with researchers was responsible for researching and developing three projects, Wafer, Praline and Frappé. I mentored my staff and some junior managers not reporting to me, introduced new processes including a lightweight Scrum-based process and a performance management process, worked with teams to identify cross-product architectural issues, and had made significant progress towards getting all projects on track. 
+
+My departure from Oracle after less than five months was driven by a clash of leadership style. My preference for a collaborative approach did not match the expecations for a confrontational, adversarial approach. 
 
 
 
