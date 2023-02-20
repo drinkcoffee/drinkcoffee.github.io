@@ -15,7 +15,13 @@ Peter Robinson, **Analysis of US$600M Poly Network Hack**, Ethereum Engineering 
 
 Peter Robinson, **General Purpose Atomic Crosschain Transaction (GPACT): September 2021 Update**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=AV3_B0MxvFw](https://www.youtube.com/watch?v=AV3_B0MxvFw), 2021.
 
-Peter Robinson, **General Purpose Atomic Crosschain Transactions (GPACT)**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=ixK0_ltjr8k](https://www.youtube.com/watch?v=ixK0_ltjr8k), Ethereum Engineering Group Meet-up, 2021.
+Peter Robinson, **General Purpose Atomic Crosschain Transactions (GPACT)**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=ixK0_ltjr8k](https://www.youtube.com/watch?v=ixK0_ltjr8k), 2021.
+
+Peter Robinson, **GPACT Protocol for bridging Trade and Finance blockchains**, Supply Chain on Blockchain Conference 2021, [https://www.youtube.com/watch?v=zARRkPRoZZY&t=11633s](https://www.youtube.com/watch?v=zARRkPRoZZY&t=11633s), 2021.
+
+Peter Robinson, **General Purpose Atomic Crosschain Transactions (GPACT): Business Logic Across Chains**, Crosschain Workshop 2021, [https://www.youtube.com/watch?v=GqIpE9TshK0&t=2965s](https://www.youtube.com/watch?v=GqIpE9TshK0&t=2965s), 2021.
+
+Peter Robinson and Sandra Johnson, **Enabling Supply Chains using Crosschain Transactions and Private Sidechains**, Supply Chain on Blockchain Conference 2019, [https://www.youtube.com/watch?v=gkzV_tFjPNI&t=20830s](https://www.youtube.com/watch?v=gkzV_tFjPNI&t=20830s), 2019.
 
 Peter Robinson, Raghavendra Ramesh, Sandra Johnson, and Zhenyang Shi, **Hotel - Train Demo using Atomic Crosschain Transactions**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=5ASxwvTdKDM](https://www.youtube.com/watch?v=5ASxwvTdKDM), 2019.
 
@@ -58,6 +64,8 @@ Peter Robinson, **ABI Encoding / helping you with DeFi Hack Root Cause Analysis*
 Peter Robinson, **How do Ethereum Mixing Services work?**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=UPWyrHWSwW8](https://www.youtube.com/watch?v=UPWyrHWSwW8), 2022.
 
 Peter Robinson, **Ethereum Gas Optimisation: Effects of recent EIPs, architecture, and design and impl choices**, Ethereum Engineering Group Meet-up, 2022.
+
+Dyma Budorin, Jaya Brekke, Peter Robinson, **Blockchain Security Leaders Panel**, Kyiv Tech Summit, 2022.
 
 Peter Robinson and David Hyland-Wood, **EVM: From Solidity to byte code, memory and storage**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=RxL_1AfV7N4](https://www.youtube.com/watch?v=RxL_1AfV7N4), 2020.
 
