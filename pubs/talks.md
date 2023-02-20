@@ -63,6 +63,8 @@ Peter Robinson, **ABI Encoding / helping you with DeFi Hack Root Cause Analysis*
 
 Peter Robinson, **How do Ethereum Mixing Services work?**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=UPWyrHWSwW8](https://www.youtube.com/watch?v=UPWyrHWSwW8), 2022.
 
+Peter Robinson, **Cross-chain value transfer and obfuscation for criminal activities**, Workshop on Blockchain Applications and FinTel, 2022.
+
 Peter Robinson, **Ethereum Gas Optimisation: Effects of recent EIPs, architecture, and design and impl choices**, Ethereum Engineering Group Meet-up, 2022.
 
 Dyma Budorin, Jaya Brekke, Peter Robinson, **Blockchain Security Leaders Panel**, Kyiv Tech Summit, 2022.
@@ -75,11 +77,18 @@ Peter Robinson, **Future of Blockchain**, Etheruem Engineering Group Meet-up, [h
 
 Rob Dawson, Adrian Sutton, and Peter Robinson, **Ethereum Engineering Group: PoW, PoS, and PoA**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=KtsLj3NF5Ys](https://www.youtube.com/watch?v=KtsLj3NF5Ys), 2018.
 
-Peter Robinson, **Engineering Introduction to Ethereum**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=nNTanADdeNc](https://www.youtube.com/watch?v=nNTanADdeNc), 2018.
-
 Peter Robinson, **Blockchain and Smart Contract Long Term Security**, Blockchain, Smart Contracts and Distributed Ledger Forum, Sydney, Australia, 2016.
 
+
+
+# Introductory Talks on Blockchain 
+Peter Robinson, **Introduction to Ethereum**, Variations of this talk were given as guest lectures to under graduate and post graduate students at University of Queensland, Queensland University of Technology, Griffith University, and TAFE between 2017 and 2023.
+
+Peter Robinson, **Blockchain, Uses & Implications for Business and Government**, Variations of this talk were delivered to delegations from the Vietnamese government and post graduate business students from Hong Kong at the Institute of Continuing and TESOL Education, University of Queensland between 2018 and 2020. 
+
 Peter Robinson, **Applications of Blockchain for Business**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=JogS8vPm0w0](https://www.youtube.com/watch?v=JogS8vPm0w0), 2021.
+
+Peter Robinson, **Engineering Introduction to Ethereum**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=nNTanADdeNc](https://www.youtube.com/watch?v=nNTanADdeNc), 2018.
 
 Peter Robinson, **Introduction to Blockchain and Ethereum**, internal training at RSA, 2016.
 
