@@ -4,7 +4,16 @@ title: Experience
 permalink: /experience/
 ---
 
-# ConsenSys (July 2017 to Present): Technical Directory & Applied Cryptographer
+# Immmutable (March 2023 to Present): Head of Blockchain Research
+
+I am helping keep Immutable ahead of the curve.
+
+
+# Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
+I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148/47).
+
+
+# ConsenSys (July 2017 to January 2023): Technical Directory & Applied Cryptographer
 
 [ConsenSys](https://consensys.net/) is a software development and research company driving the Ethereum ecosystem forwards. I have worked in three main areas at ConsenSys:
 
@@ -63,5 +72,6 @@ Oracle Labs is the research arm for Oracle, focusing on applied research that pr
 My departure from Oracle after less than five months was driven by a clash of leadership style. My preference for a collaborative approach did not match the expecations for a confrontational, adversarial approach. 
 
 
-
+# Many other projects
+When I get around to it, I will write up some of my earlier employment history.
 
