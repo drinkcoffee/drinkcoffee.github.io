@@ -13,11 +13,11 @@
 - title: "Experience"
   href: "/experience/"
 
-# - title: "Projects"
-#   href: "/projects/"
-#   subcategories:
-#     - subtitle: "Crosschain"
-#       subhref: "/projects/crosschain/"
+- title: "Projects"
+  href: "/projects/"
+  subcategories:
+    - subtitle: "Thank You Meme Coin"
+      subhref: "/projects/thankyou/"
 
 - title: "Publications"
   href: "/pubs/"

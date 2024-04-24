@@ -4,7 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-
-
-* [Crosschain](./crosschain/)
+* [Thank You Meme Coin](./thankyou/)
 
