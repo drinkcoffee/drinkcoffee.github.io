@@ -6,7 +6,17 @@ permalink: /experience/
 
 # Immmutable (March 2023 to Present): Head of Blockchain Research
 
-I am helping keep Immutable ahead of the curve.
+[Immutable](https://immutable.com) is creating a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across five main areas:
+
+**Blockchain Strategy**: Working at the leading edge of blockchain development has meant that there have been many challenges and changes. I have guided the engineering team through these evolving complexities, providing strategic guidance on blockchain client selection, consensus protocols, zero knowledge proof systems, staking systems, and DeFi protocols.
+
+**zkEVM and zkVM Research**: I worked with Polygon Labs and other zero knowledge R&D organisations on zero knowledge systems architectures. I developed a set contracts known as *Prover Killing Contracts* that stress test zkEVM provers.
+
+**Bridge System Design**: I designed and implemented the prototype bridging system, including the flow rate detection system. This system is important as it prevents the exfiltration of large quantities of funds in single transactions. I convinced executive management of the importance of the system, and handed the work over to the engineering team who have ultimately delivered the production version of this work.
+
+**Smart Contract Wallet Security**: I analysed the Smart Contract Wallet system that was used as a starting point for the Immutable Passport wallet system. I determined multiple security and cost improvements which were implemented by engineering teams.
+
+**Web3 Development Process**: I introduced development processes for smart contracts and associated off-chain systems including key management. I developed the first version of Immutable’s vulnerability response plan.
 
 
 # Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
@@ -19,7 +29,7 @@ I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.
 
 **Co-founding of Protocols business unit (PegaSys)**: During 2017 and early-2018 my focus was hiring a team, building culture, establishing processes and creating a world class research & development group. 
 
-**[Crosschain & Bridges](../projects/crosschain/)**: From 2018 onwards, I have mainly researched a range of protocols that facilitate cross-blockchain communications. I invented the following protocols:
+**Crosschain & Bridges**: From 2018 onwards, I have mainly researched a range of protocols that facilitate cross-blockchain communications. I invented the following protocols:
 
 * General Purpose Atomic Crosschain Transactions (GPACT): Enables composable programming across blockchains. Allows for inter-contract and inter-blockchain function calls that are both synchronous and atomic: if one part fails, the whole call execution tree of function calls is rolled back.
 * Crosschain Protocol Stack: Describes how applications, function call, and messaging components can interoperate. 
