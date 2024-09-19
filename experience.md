@@ -37,10 +37,10 @@ I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.
 
 
 # Ethereum Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
-The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 32K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. 
+The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 50K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. 
 
 
-# Digital Finance Cooperative Research Centre (July 2022 – Present): Advisor
+# Digital Finance Cooperative Research Centre (July 2022 – April 2023): Advisor
 I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on crosschain protocols and Solidity contracts.
 
 
