@@ -16,7 +16,7 @@ permalink: /experience/
 
 **Smart Contract Wallet Security**: I analysed the Smart Contract Wallet system that was used as a starting point for the Immutable Passport wallet system. I determined multiple security and cost improvements which were implemented by engineering teams.
 
-**Web3 Development Process**: I introduced development processes for smart contracts and associated off-chain systems including key management. I developed the first version of Immutable’s vulnerability response plan.
+**Web3 Development Process, Contracts Repo, and Smart Contract Auditing**: I introduced development processes for smart contracts and associated off-chain systems including key management and vulnerability response planning. I drove improvements to the Smart Contracts GitHub repository. I instigated multiple process improvements with smart contract auditing. I audited a multitude of contracts, the result of which was the detection of critical security issues prior to contract deployment.
 
 
 # Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
