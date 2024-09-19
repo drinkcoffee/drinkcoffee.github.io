@@ -16,6 +16,8 @@
 - title: "Projects"
   href: "/projects/"
   subcategories:
+    - subtitle: "Ethereum Engineering Group Meetup"
+      subhref: "/projects/meetup/"
     - subtitle: "Thank You Meme Coin"
       subhref: "/projects/thankyou/"
 
