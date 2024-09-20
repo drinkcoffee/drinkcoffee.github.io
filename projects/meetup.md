@@ -28,7 +28,7 @@ The original organisers of the meetup were Brett Henderson, Rob Dawson, and myse
 
 # FAQ for Speakers
 
-## Topic Areas
+## What topic areas are covered by the meetup?
 
 Talks have been on a broad range of topics:
 
@@ -51,13 +51,13 @@ Talks have been on a broad range of topics:
 * Recruitment
 
 
-## Avoid Marketing
+## Should I avoid marketing?
 
 Please avoid marketing pitches. If your talk is about a specific product, then please describe the technology your product is based upon and how your product works. If you want to explain how your product relates to other products in the market, please be careful to ensure comparisons are fair and impartial.
 
-## Audience
+## Who are the audience?
 
-There are 1752 members of the meetup.com group and 8120 subscribers to the YouTube channel. These people come from widely varying backgrounds: blockchain infrastructure developers, application developers, researchers, enthusiasts, venture capitalists, recruiters, novices. The audience typically self-selects to attend talks or watch videos based on the title and their perception of the likely content. That said, speakers should assume that the audience will be extremely smart, will consist of many people conversant with blockchain technologies, and could well include world experts on their topic.
+There are 1752 members of the meetup.com group and 8120 subscribers to the YouTube channel. These people come from widely varying backgrounds: blockchain infrastructure developers, application developers, researchers, enthusiasts, venture capitalists, recruiters, and novices. The audience typically self-selects to attend talks or watch videos based on the title and their perception of the likely content. That said, speakers should assume that the audience will consist of many people conversant with blockchain technologies, and could well include world experts on their topic.
 
 
 ## How long should my talk be?
