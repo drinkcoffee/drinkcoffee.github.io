@@ -28,6 +28,37 @@ The original organisers of the meetup were Brett Henderson, Rob Dawson, and myse
 
 # FAQ for Speakers
 
+## Topic Areas
+
+Talks have been on a broad range of topics:
+
+* Ethereum protocol and Ethereum Improvement Proposals (EIPs)
+* Layer 2 protocols, zero knowledge proofs, Optimistic and Validity Rollups
+* Crosschain protocols
+* Consensus protocols
+* Solidity development and tooling
+* Decentralised Finance (DeFi)
+* Oracles
+* Applications: Goveranance, Supply chains, Games, Security, Space
+* Hack and Vulnerabilities
+* AI
+* Standardisation
+* Formal Methods
+* Economics
+* IP Law
+* Cryptography
+* Regulations
+* Recruitment
+
+
+## Avoid Marketing
+
+Please avoid marketing pitches. If your talk is about a specific product, then please describe the technology your product is based upon and how your product works. If you want to explain how your product relates to other products in the market, please be careful to ensure comparisons are fair and impartial.
+
+## Audience
+
+There are 1752 members of the meetup.com group and 8120 subscribers to the YouTube channel. These people come from widely varying backgrounds: blockchain infrastructure developers, application developers, researchers, enthusiasts, venture capitalists, recruiters, novices. The audience typically self-selects to attend talks or watch videos based on the title and their perception of the likely content. That said, speakers should assume that the audience will be extremely smart, will consist of many people conversant with blockchain technologies, and could well include world experts on their topic.
+
 
 ## How long should my talk be?
 
@@ -67,12 +98,10 @@ Yes, you will present your slides.
 
 ## Will my slides be published?
 
-
 Yes. I ask you to put a PDF copy of your slides onto a Google Drive. I will make a copy of the slides, and then share in view-only mode that copy to anyone with the link. I will put the link into the description of the recording of the talk on YouTube.
 
 
 ## What are LastSlides?
-
 
 I have three slides that I ask that you put at the end of your talk. They contain a link to the [Merch Store](https://ethereum-engineering-group-shop.fourthwall.com/), details of future talks, and links to the [meetup](https://www.meetup.com/ethereum-engineering/) and [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A) sites.
 
@@ -87,3 +116,15 @@ Yes. The recording of all talks are published on YouTube.
 
 
 Yes. By presenting you are asserting that you own or you represent an organisation that owns the rights to the material that you present. If you are uncertain about who owns the intellectual property surrounding your talk, please talk to your team within your organisation to ensure people in your team are happy for you to give a public talk.
+
+
+## Referencing and fair use of copyrighted material
+
+Talks will often include graphics or information of copyrighted material. Speakers must ensure the comply with [Fair Use Provisions](https://www.alrc.gov.au/publication/copyright-and-the-digital-economy-alrc-report-122/4-the-case-for-fair-use/what-is-fair-use-2/). 
+Speakers should include a link to the original material on their slides.
+
+Talks will often leverage earlier work. Please include references so that attendees can do further research.
+
+
+
+
