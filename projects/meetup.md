@@ -21,7 +21,7 @@ The first meetings to organise the logistics of the meetup occurred in late 2017
 Moving to Zoom has provided great opportunities, allowing for speakers and audience members from all over the world. Having more control over the recording environment has also led to a dramatic improvement in the audio and video quality of the recordings on YouTube.
 
 
-The original organisers of the meetup were Brett Henderson, Rob Dawson, and myself, Peter Robinson. Sandra Johnson, Joanne Fuller, and David Hyland-Wood have provided significant assistance over many years to make the meetup what it is today.
+The original organisers of the meetup were Brett Henderson, Rob Dawson, and myself, Peter Robinson. Sandra Johnson, Joanne Fuller, David Hyland-Wood, and Raghavendra Ramesh have provided significant assistance over many years to make the meetup what it is today.
 
 
 
