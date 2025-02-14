@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-# Immmutable (March 2023 to Present): Head of Blockchain Research
+# Immutable (March 2023 to Present): Head of Blockchain Research
 
 [Immutable](https://immutable.com) is creating a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across five main areas:
 
