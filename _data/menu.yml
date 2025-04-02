@@ -20,6 +20,8 @@
       subhref: "/projects/meetup/"
     - subtitle: "Thank You Meme Coin"
       subhref: "/projects/thankyou/"
+    - subtitle: "Sample NFT Collection"
+      subhref: "/projects/nfts/"
 
 - title: "Publications"
   href: "/pubs/"

@@ -1,0 +1,20 @@
+{
+    "name": "Snow",
+    "image": "https://drinkcoffee.github.io/projects/nfts/102snow.png",
+    "tokenId": "102",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "Gen1"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Recraft.ai"
+      }
+    ]
+  }
+  

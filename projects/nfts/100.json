@@ -1,0 +1,20 @@
+{
+    "name": "Grass Field",
+    "image": "https://drinkcoffee.github.io/projects/nfts/100grassfield.png",
+    "tokenId": "100",
+    "attributes": [
+      {
+        "trait_type": "Series",
+        "value": "Gen1"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythical"
+      },
+      {
+        "trait_type": "Artist",
+        "value": "Microsoft Designer"
+      }
+    ]
+  }
+  
