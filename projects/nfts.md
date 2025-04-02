@@ -4,7 +4,7 @@ title: Sample NFT Collection
 permalink: /projects/nfts/
 ---
 
-This page contain graphics and metadata that has been used in some same NFT projects.
+This page contain graphics and metadata that has been used in some sample NFT projects.
 
 # Gen1 NFTs
 
@@ -42,7 +42,7 @@ This page contain graphics and metadata that has been used in some same NFT proj
   <td valign="top">103</td>
   <td valign="top">Forest</td>
   <td valign="top">Common</td>
-  <td valign="top">Recraft.au</td>
+  <td valign="top">Recraft.ai</td>
   <td><a href="./103forest-full.png"><img src="./103forest.png"></a></td>
 </tr>
 
