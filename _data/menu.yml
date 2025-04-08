@@ -20,8 +20,10 @@
       subhref: "/projects/meetup/"
     - subtitle: "Thank You Meme Coin"
       subhref: "/projects/thankyou/"
-    - subtitle: "Sample NFT Collection"
-      subhref: "/projects/nfts/"
+    - subtitle: "Sample ERC721 NFT Collection"
+      subhref: "/projects/erc721nfts/"
+    - subtitle: "Sample ERC1155 NFT Collection"
+      subhref: "/projects/erc1155nfts/"
 
 - title: "Publications"
   href: "/pubs/"
