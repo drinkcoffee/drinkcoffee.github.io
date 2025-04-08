@@ -1,7 +1,7 @@
 {
-    "name": "Moon",
-    "image": "https://drinkcoffee.github.io/projects/nfts/000moon.png",
-    "tokenId": "1000",
+    "name": "Desert",
+    "image": "https://drinkcoffee.github.io/projects/erc1155nfts/101desert.png",
+    "tokenId": "101",
     "attributes": [
       {
         "trait_type": "Series",
@@ -9,7 +9,7 @@
       },
       {
         "trait_type": "Rarity",
-        "value": "Common"
+        "value": "Legendary"
       },
       {
         "trait_type": "Artist",

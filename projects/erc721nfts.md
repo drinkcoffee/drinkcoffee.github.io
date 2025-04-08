@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Sample NFT Collection
-permalink: /projects/nfts/
+permalink: /projects/erc721nfts/
 ---
 
-This page contain graphics and metadata that has been used in some sample NFT projects.
+This page contain graphics and metadata that has been used in some sample ERC721 NFT projects.
 
 # Gen1 NFTs
 

@@ -1,7 +1,7 @@
 {
-    "name": "Moon",
-    "image": "https://drinkcoffee.github.io/projects/nfts/000moon.png",
-    "tokenId": "1000",
+    "name": "Grass Field",
+    "image": "https://drinkcoffee.github.io/projects/erc1155nfts/100grassfield.png",
+    "tokenId": "100",
     "attributes": [
       {
         "trait_type": "Series",
@@ -9,11 +9,11 @@
       },
       {
         "trait_type": "Rarity",
-        "value": "Common"
+        "value": "Mythical"
       },
       {
         "trait_type": "Artist",
-        "value": "Recraft.ai"
+        "value": "Microsoft Designer"
       }
     ]
   }

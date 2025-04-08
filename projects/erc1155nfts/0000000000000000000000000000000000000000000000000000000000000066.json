@@ -1,7 +1,7 @@
 {
-    "name": "Moon",
-    "image": "https://drinkcoffee.github.io/projects/nfts/000moon.png",
-    "tokenId": "1000",
+    "name": "Snow",
+    "image": "https://drinkcoffee.github.io/projects/erc1155nfts/102snow.png",
+    "tokenId": "102",
     "attributes": [
       {
         "trait_type": "Series",
@@ -9,7 +9,7 @@
       },
       {
         "trait_type": "Rarity",
-        "value": "Common"
+        "value": "Epic"
       },
       {
         "trait_type": "Artist",
