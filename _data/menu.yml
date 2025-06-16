@@ -1,7 +1,7 @@
 
-# - title: "Blog"
-#  href: "/blog/"
-#
+- title: "Blog"
+  href: "/blog/"
+
 - title: "Education"
   href: "/education/"
   subcategories:
@@ -24,11 +24,6 @@
       subhref: "/projects/erc721nfts/"
     - subtitle: "Sample ERC1155 NFT Collection"
       subhref: "/projects/erc1155nfts/"
-    - subtitle: "Posts"
-      subhref: "/projects/posts/"
-      subcategories:
-      - subtitle: "Interview Scam Advice"
-        subhref: "/projects/posts/interview-scam-advice/
 
 - title: "Publications"
   href: "/pubs/"
