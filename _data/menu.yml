@@ -26,8 +26,9 @@
       subhref: "/projects/erc1155nfts/"
     - subtitle: "Posts"
       subhref: "/projects/posts/"
-    - subtitle: "Interview Scam Advice"
-      subhref: "/projects/posts/interview-scam-advice/
+      subcategories:
+      - subtitle: "Interview Scam Advice"
+        subhref: "/projects/posts/interview-scam-advice/
 
 - title: "Publications"
   href: "/pubs/"
