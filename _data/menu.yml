@@ -24,6 +24,10 @@
       subhref: "/projects/erc721nfts/"
     - subtitle: "Sample ERC1155 NFT Collection"
       subhref: "/projects/erc1155nfts/"
+    - subtitle: "Posts"
+      subhref: "/projects/posts/"
+    - subtitle: "Interview Scam Advice"
+      subhref: "/projects/posts/interview-scam-advice/
 
 - title: "Publications"
   href: "/pubs/"
