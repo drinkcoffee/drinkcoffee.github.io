@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
+Here are some random thoughts:
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
