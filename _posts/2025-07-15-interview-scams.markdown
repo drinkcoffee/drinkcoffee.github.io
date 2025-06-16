@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to detect Interview Scams"
-date:   2015-07-15 11:00:00
+date:   2025-07-15 11:00:00
 categories: interviews scams
 ---
 
