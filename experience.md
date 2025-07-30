@@ -25,7 +25,7 @@ The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-enginee
 
 # Whatgame Studios (December 2024 to Present): Co-Founder / Game Designer / Game Dev
 
-Whatgame Studios is developing a range of daily play puzzle games. In the first game, [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. I have helped with game design, implementation and operations.
+Whatgame Studios is developing a range of daily play puzzle games. In the first game, [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. The game is available on Apple's App Store and Google Play. I have helped with game design, implementation and operations.
 
 # Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
 I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148/47).
