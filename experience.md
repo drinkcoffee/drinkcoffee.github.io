@@ -18,10 +18,20 @@ permalink: /experience/
 
 **Web3 Development Process, Contracts Repo, and Smart Contract Auditing**: I introduced development processes for smart contracts and associated off-chain systems including key management and vulnerability response planning. I drove improvements to the Smart Contracts GitHub repository. I instigated multiple process improvements with smart contract auditing. I audited a multitude of contracts, the result of which was the detection of critical security issues prior to contract deployment.
 
+**Partnerships**: I have maintained relationships with blockchain services vendors and negotiated contract renewals.
+
+# Ethereum Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
+The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 50K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. For more information see my meetup [project page](../projects/meetup).
+
+# Whatgame Studios (December 2024 to Present): Co-Founder / Game Designer / Game Dev
+
+Whatgame Studios is developing a range of daily play puzzle games. In the first game, [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. I have helped with game design, implementation and operations.
 
 # Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
 I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148/47).
 
+# VE3 (February 2023): Consultant
+At VE3 I researched the design of multi-dimensional automatic market makers.
 
 # ConsenSys (July 2017 to January 2023): Technical Directory & Applied Cryptographer
 
@@ -46,10 +56,6 @@ I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.
 * Cryptographic consulting: I advised teams across ConsenSys, including the MetaMask team, about cryptography and security.
 
 
-# Ethereum Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
-The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 50K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. For more information see my meetup [project page](../projects/meetup).
-
-
 # Digital Finance Cooperative Research Centre (July 2022 – April 2023): Advisor
 I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on crosschain protocols and Solidity contracts.
 
@@ -58,21 +64,7 @@ I provide advice to Digital Finance Cooperative Research Centre (DFCRC) on cross
 I am an advisor on multiple projects. I give guidance and am a sounding board for ideas on varied topics including: DeFi, crosschain, blockchain, cryptography, protocol design, development process, leadership, management, and recruitment. The projects range in maturity, though most are early stage / stealth.
 
 # Smart Contract Application Browser Open Source Project (May to August 2017), Founder
-The Smart Contract Application Browser (SCAB) aimed to be a browser and app store for the Blockchain / Smart Contract era. The goals of the project are to solve the user interface and key management problems which are impeding the adoption of Smart Contracts. In the first instance, the project targeted the Ethereum blockchain platform and Android.
-
-A Smart Contract Application, also known as a Decentralized Application (Dapp), combines code on a blockchain (smart contract), client side code and GUI, and cryptographic keys used to identify the parties involved in the contract.
-
-The SCAB is an application which runs on an end point such as a mobile phone, tablet or computer. The Dapp GUI and client side code runs in a sandbox in the SCAB, in a similar way to how HTML and Javascript run in a sandbox in a web browser. Similarly to how web browsers can display content from many websites, the SCAB can display the GUI of many contracts.
-
-The keys used to identify the user sit outside of the sandbox. When the SCAB interprets code in the Dapp client side code which executes a funciton call on the smart contract, the SCAB creates a blockchain transaction for the smart contract call and uses the user's key to sign the transaction. 
-
-The SCAB project only progressed to early stages of development. The goals of the SCAB were:
-
-* Simpler Dapp authoring and deployment process.
-* Limit Dapp access to keys.
-* Abstract complex security issues such as key sharing between devices away from general application developers. 
-* Cross-blockchain platform: Ethereum (initial support), Hyperledger Fabric.
-* Cross-device platform: Android(initial support), iOS, Web Browser, Windows, Mac, Linux.
+The Smart Contract Application Browser (SCAB) aimed to be a browser and app store for the Blockchain / Smart Contract era. The goals of the project were to solve the user interface and key management problems which are impeding the adoption of Smart Contracts. In the first instance, the project targeted the Ethereum blockchain platform and Android phone apps.
 
 The project is available on Github: https://github.com/nelladragon/scab 
 
