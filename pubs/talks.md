@@ -5,6 +5,11 @@ permalink: /pubs/talks/
 ---
 
 # Crosschain & Bridges
+
+Ermyas Abebe and Peter Robinson, **Crosschain Risk Framework**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=vqr-B_86M0E](https://www.youtube.com/watch?v=vqr-B_86M0E), 2023.
+
+Peter Robinson, **ERC20 Bridge Security**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=hGDH6CNuMM0](https://www.youtube.com/watch?v=hGDH6CNuMM0), 2023.
+
 Peter Robinson, Zhenyang Shi, and Angela Potter, **Crosschain Applications using Crosschain Protocol Stack & GPACT**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=zORcdGcB3so](https://www.youtube.com/watch?v=zORcdGcB3so), 2022.
 
 Peter Robinson, **Cryptoeconmic Incentivization and the Crosschain Protocol Stack**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=hIqMtqvt97M](https://www.youtube.com/watch?v=hIqMtqvt97M), 2022.
@@ -28,12 +33,29 @@ Peter Robinson, Raghavendra Ramesh, Sandra Johnson, and Zhenyang Shi, **Hotel - 
 
 # Ethereum Scaling
 
+Peter Robinson, **Ethereum L2 Architectures: Op, zkEVM, zkVM, OpZkm & RISCV, Rollups & Validium**, Eighth Symposium on Distributed Ledger Technology and Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=327oiJSXgBY](https://www.youtube.com/watch?v=327oiJSXgBY), 2024.
+
+Peter Robinson, **Decentralized Sequencer friendly Consensus Algorithms for zk Rollups**, Seventh Symposium on Distributed Ledger Technology and Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=nF4jTEcQbkA](https://www.youtube.com/watch?v=nF4jTEcQbkA), 2023.
+
+Peter Robinson, **Decentralized Sequencers & QBFT**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=e8pwv9DIojI](https://www.youtube.com/watch?v=e8pwv9DIojI), 2023.
+
 Peter Robinson, **Scaling Ethereum using Roll-ups and Sidechains**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=Ohi6R7m5BWk](https://www.youtube.com/watch?v=Ohi6R7m5BWk), 2021.
 
 Raghavendra Ramesh and Peter Robinson, **Ethereum 2 Cross Shard Techniques**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=d8z7fUpJzsk](https://www.youtube.com/watch?v=d8z7fUpJzsk), 2020.
 
 
 # Solidity
+
+Peter Robinson and Serge Radinovich, **Rust & Solidity: Interacting with Solidity on EVM Chains with Rust**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=FVJgtLy8LNY](https://www.youtube.com/watch?v=FVJgtLy8LNY), 2025.
+
+Peter Robinson, **Settlement contract to safely buy an access controlled DeFi project, with proxy**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=x2cgbWzf1F8](https://www.youtube.com/watch?v=x2cgbWzf1F8), 2023.
+
+Marc Bown, Ryan Teoh, and Peter Robvinson, **Immutable's Smart Contract Secure Development Process**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=BFZ-50u3PXk](https://www.youtube.com/watch?v=BFZ-50u3PXk), 2023.
+
+Peter Robinson, **Using AI to find bugs in Solidity Code**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=J7dUOSPG0WY](https://www.youtube.com/watch?v=J7dUOSPG0WY), 2023.
+
+Peter Robinson, **Solidity Inline Assembly & Yul**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=K18LzGharGM](https://www.youtube.com/watch?v=K18LzGharGM), 2023.
+
 Peter Robinson, **Advanced Solidity Test: Flashloan contract via a Transparent Upgrade Proxy**, Ethereum Engineering Group, [https://www.youtube.com/watch?v=nFsBSVstYiI](https://www.youtube.com/watch?v=nFsBSVstYiI), 2022.
 
 Peter Robinson, **Front Running Protection for Ethereum Smart Contracts**, [https://www.youtube.com/watch?v=Jiis5Kr_QU0](https://www.youtube.com/watch?v=Jiis5Kr_QU0), 2022.
@@ -50,6 +72,9 @@ Peter Robinson, **What's new in Solidity 0.6.x**, Ethereum Engineering Group Mee
 
 Peter Robinson, **Advanced Solidity and Design Patterns**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=VhzafmGGmzo](https://www.youtube.com/watch?v=VhzafmGGmzo), 2018.
 
+# Decentralised Finance (DeFi)
+
+Peter Robinson, **A mental model for Uniswap V3 Liquidity Pools on L2s & Profitability Analysis**, Etheruem Engineering Group Meet-up, [https://www.youtube.com/watch?v=LfsW-aC8bIs](https://www.youtube.com/watch?v=LfsW-aC8bIs), 2024.
 
 # Stateless Ethereum Research
 Peter Robinson and Raghavendra Ramesh, **Witness Compression & Code Merklization**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=44PEl-GIlmw](https://www.youtube.com/watch?v=44PEl-GIlmw), 2020.
@@ -59,13 +84,19 @@ Horacio Mijail and Peter Robinson, **Ethereum 1.x Stateless & the Witness Specif
 
 # Ethereum
 
+Peter Robinson, **Seed Phrases, Derivation Paths, Private Keys, Signatures, & Accounts. BIP32, BIP39 & BIP44**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=NrijkY8jP4I](https://www.youtube.com/watch?v=NrijkY8jP4I), 2024.
+
+Peter Robinson, **Secure Random Number Generation on EVM Blockchains / Rollups**, Ethereum Engineering Group Meetup, [https://www.youtube.com/watch?v=vfu5Hhw6dzo](https://www.youtube.com/watch?v=vfu5Hhw6dzo), 2024.
+
+Peter Robinson, **ERC 1271 & ERC 6492: Signatures for Contract Wallets / Account Abstraction**, Ethereum Enhgineering Group Meet-up, [https://www.youtube.com/watch?v=p_UG1x53TWc](https://www.youtube.com/watch?v=p_UG1x53TWc), 2023.
+
 Peter Robinson, **ABI Encoding / helping you with DeFi Hack Root Cause Analysis**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=RZytWxtKODg](https://www.youtube.com/watch?v=RZytWxtKODg), 2022.
 
 Peter Robinson, **How do Ethereum Mixing Services work?**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=UPWyrHWSwW8](https://www.youtube.com/watch?v=UPWyrHWSwW8), 2022.
 
 Peter Robinson, **Cross-chain value transfer and obfuscation for criminal activities**, Workshop on Blockchain Applications and FinTel, 2022.
 
-Peter Robinson, **Ethereum Gas Optimisation: Effects of recent EIPs, architecture, and design and impl choices**, Ethereum Engineering Group Meet-up, 2022.
+Peter Robinson, **Ethereum Gas Optimisation: Effects of recent EIPs, architecture, and design and impl choices**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=BhqvdOO0rdA&t](https://www.youtube.com/watch?v=BhqvdOO0rdA&t), 2022.
 
 Dyma Budorin, Jaya Brekke, Peter Robinson, **Blockchain Security Leaders Panel**, Kyiv Tech Summit, 2022.
 
@@ -79,10 +110,12 @@ Rob Dawson, Adrian Sutton, and Peter Robinson, **Ethereum Engineering Group: PoW
 
 Peter Robinson, **Blockchain and Smart Contract Long Term Security**, Blockchain, Smart Contracts and Distributed Ledger Forum, Sydney, Australia, 2016.
 
+# Immutable zkEVM
+Peter Robinson, **Immutable zkEVM and Passport Wallet: Architecture & Security**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=FzwkuMTVDTw](https://www.youtube.com/watch?v=FzwkuMTVDTw), 2023.
 
 
 # Introductory Talks on Blockchain 
-Peter Robinson, **Introduction to Ethereum**, Variations of this talk were given as guest lectures to under graduate and post graduate students at University of Queensland, Queensland University of Technology, Griffith University, and TAFE between 2017 and 2023.
+Peter Robinson, **Introduction to Ethereum**, Variations of this talk were given as guest lectures to under graduate and post graduate students at University of Queensland, Queensland University of Technology, Griffith University, and TAFE between 2017 and 2025.
 
 Peter Robinson, **Blockchain, Uses & Implications for Business and Government**, Variations of this talk were delivered to delegations from the Vietnamese government and post graduate business students from Hong Kong at the Institute of Continuing and TESOL Education, University of Queensland between 2018 and 2020. 
 
@@ -101,6 +134,9 @@ Peter Robinson, **Filecoin Retrieval: What is in PoC1**, Filecoin Retrieval Semi
 Peter Robinson, **Filecoin Secondary Retrieval Market system's PoC1 release**, Filecoin Retrieval Seminar Series, [https://www.youtube.com/watch?v=wsCudoalxvQ](https://www.youtube.com/watch?v=wsCudoalxvQ), 2021.
 
 
+# Web3 Games Design
+
+Peter Robinson, **Web3 Games Design & Implementation**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=zn-3PwK9c9w](https://www.youtube.com/watch?v=zn-3PwK9c9w), 2025.
 
 # Cryptography
 
@@ -138,6 +174,7 @@ Peter Robinson, **Secure Graphical Passwords**, presented at RSA Conference 2015
 Peter Robinson and Sean Parkinson, **TLS Renegotiation Vulnerability**, presented at RSA Conference 2011 in San Francisco, CA, USA, 2011.
 
 Peter Robinson, **Developing TLS Applications with Suite B Cipher Suites**, presented at RSA Conference 2009 in San Francisco, CA, USA, and presented at RSA Conference Europe 2008 in London, UK.
+
 
 # Java Security
 Peter Robinson, **Preventing Java ByteCode Reverse Engineering**, presented at RSA Conference 2006 in San Jose, CA, USA, 2006.
