@@ -6,7 +6,7 @@ permalink: /experience/
 
 # Immutable (March 2023 to Present): Head of Blockchain Research
 
-[Immutable](https://immutable.com) is creating a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across five main areas:
+[Immutable](https://immutable.com) is creating a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across six main areas:
 
 **Blockchain Strategy**: Working at the leading edge of blockchain development has meant that there have been many challenges and changes. I have guided the engineering team through these evolving complexities, providing strategic guidance on blockchain client selection, consensus protocols, zero knowledge proof systems, staking systems, and DeFi protocols.
 
@@ -27,7 +27,7 @@ The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-enginee
 
 Whatgame Studios is developing a range of daily play puzzle games. In the first game, [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. The game is available on Apple's App Store and Google Play. I have helped with game design, implementation and operations.
 
-# Uniswap Foundation (Feburary to March 2023): Advisor / Consultant
+# Uniswap Foundation (February to March 2023): Advisor / Consultant
 I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148/47).
 
 # VE3 (February 2023): Consultant
