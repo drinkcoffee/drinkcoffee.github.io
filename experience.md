@@ -33,7 +33,7 @@ I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.
 # VE3 (February 2023): Consultant
 At VE3 I researched the design of multi-dimensional automatic market makers.
 
-# ConsenSys (July 2017 to January 2023): Technical Directory & Applied Cryptographer
+# ConsenSys (July 2017 to January 2023): Technical Director & Applied Cryptographer
 
 [ConsenSys](https://consensys.net/) is a software development and research company driving the Ethereum ecosystem forwards. I have worked in three main areas at ConsenSys:
 
