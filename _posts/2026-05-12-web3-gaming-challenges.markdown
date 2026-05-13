@@ -62,6 +62,34 @@ Possible solutions to these issues:
 
 # Transaction Finality and Latency
 
+Transactions submitted to game servers are finalised in game server databases within milli-seconds. Even allowing for globally distributed game players, a game action in a game app could be committed to a backend database and acknowledged back to the game within a few hundreds of milliseconds. Once the data has been committed to the backend database it will not change. It is _final_.
+
+Transactions submitted to a blockchain are not immediately finalised. They are submitted to Remote Procedure Call (RPC) servers which gossip them to a block producing server. Initially, the transactions go into a transaction pool. The block producer takes transactions from the pool and puts them into blocks. The block producer chooses which transactions to include in blocks based on the price per unit gas that is being offered by the transaction submitter. If there are more transactions than can fit in a block, then the transaction may sit in the transaction pool waiting for the next block to be produced. 
+
+Most blockchains produce blocks at certain intervals, block periods. For Ethereum the block period (also called the block time) is twelve seconds. For Immutable zkEVM it is two seconds. If a transaction arrives in the transaction pool just after a block has been produced, then it will have to wait for almost the entire block period before it could be included in a block. Once a block has been produced, it is gossiped to other nodes in the blockchain network. 
+
+Different blockchains come to a consensus on the true (canonical) chain of blocks in different ways. These consensus protocols can lead to the possibility that a transaction is included in a block, but then that block is discarded in favour of an alternative block. This changing of the chain is called _reorganising_ or simply _reorg_. As such, users of the blockchain need to wait until their transaction has been included in a block which is deemed final based on the consensus rules of the blockchain. 
+
+Some chains offer _instant_ finality. This means that once a block is produced, it can never be discarded or superseded. As soon as a user of the chain sees their transaction in a block, they know that it is final. For these chains there are no reorgs.
+
+Issues to consider:
+
+* Transactions on blockchains can take an order of magnitude more time to become final that tradition game transactions.
+* Determine the characteristics of the chain:
+  * Block period / time.
+  * Consensus rules.
+  * Finality.
+
+Possible solutions:
+
+* Design game actions that involve blockchain to not interrupt game play.
+* Use a blockchain that has short block periods.
+* Use a blockchain that provides fast finality or instant finality.
+
+
+# Gas
+
+
 # Game Logic Matching
 
 To prevent cheating, the logic on a game app that involves a server must be replicated on the server. If this is not done, then some game players might modify the game app to give themselves an unfair advantage. If part of the game logic involves consuming tokens under certain conditions, then that game logic may have to be implemented in a Solidity contract on the blockchain. 
