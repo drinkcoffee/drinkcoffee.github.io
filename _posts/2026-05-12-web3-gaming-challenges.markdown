@@ -5,13 +5,13 @@ date:   2026-05-12 11:00:00
 categories: web3 gaming
 ---
 
-Web3 gaming has had some success with Axie Infinity and Gods Unchained, but has failed to gain mainstream traction. This article discusses some of the challenges of creating successful web3 games.
+Web3 gaming has had some success with Axie Infinity and Gods Unchained, but has failed to gain mainstream traction. This article explores the challenges of creating successful web3 games.
 
-In the article I use the terms "many game players". This is just based on anecdotal discussions
+In the article I use the terms _many game players_ and _some game players_. This is based on anecdotal discussions only, and not quantitative research.
 
 # Game Players & Wallets
 
-Game players need a wallet to play all of the parts of a web3 game. The wallet shows what assets a player owns, and hence what they can do in-game. In some games, players earn and / or spend NFTs and ERC 20 tokens as a part of game play. 
+Game players need a wallet to play web3 games. The wallet shows what assets a player owns. This often drives what the game player can do in-game. In some games, players earn and / or spend NFTs and ERC 20 tokens as a part of game play. 
 
 Most cryptocurrency wallets use BIP 39 seed phrases as the secret from which private keys are generated. Even experienced deeply technical people sometimes lose their seed phrase and are then unable to access their assets. Additionally, with this type of wallet, every transaction must be signed. This complexity of needing to remember a seed phrase along with the interrupted game play of needing to sign all transactions makes this type of wallet inappropriate for web3 gaming. 
 
@@ -20,7 +20,7 @@ Web3 gaming wallets such as Immutable's Passport, are facilitated via social log
 Issues with web3 gaming wallets are:
 
 * Many game players don't want to login to play a game.
-* Some game players don't want to use their Gmail address, because they see it as personal, and not to be shared with untrusted parties. In part this issue is that they don't want to risk their email address being sold and then receiving spam email.
+* Some game players don't want to use their Gmail address, because they see it as personal, and not to be shared with untrusted parties. In part the issue is that they don't want to risk their email address being on-sold and then receiving spam email.
 * Some game players don't want to use their Gmail address, because they see it as security relevant. They use their email address to log into important financial entities, and don't wish to mix that usage with more frivolous usage such as playing a game. 
 * Some game players don't know the password associated with their Gmail address. Logging in likely involves password resetting, which is something they try to avoid.
 * Some game players find logging into Google extremely complicated or impossible. These people typically rely on friends and family to log them into systems. 
@@ -42,15 +42,39 @@ Game economics is complicated. Games that would have been successful outside the
 * Pre-selling NFTs prior to game launch develops expectations on the utility of the NFTs. Game players may be dissatisfied with the game because the utility of an NFT they purchased (possibly at an inflated price on a secondary market) doesn't match their expectations.
 * Mis-pricing NFTs and ERC 20s: If the market place of game players is prepared to pay a certain price, say $1, for an NFT in a game they know little about, but the base price for NFTs in the game is $10, then few of the NFTs will be sold. 
 * Requiring NFTs to play the game will make the game impossible to play for game players who just want to try out the game. They will be blocked from enjoying the game, and possibly encouraging others who might invest in the game to play the game.
-* Games often go through surges, peaking and then have a declining player base. The steady state could be ten times fewer game players than at the peak. There needs to be enough NFTs for all the players to play the game during the peak, but then for there not to be a glut of NFTs when the peak has passed. Doing this requires there to be a reason to consume the NFTs; possibly as part of a crafting action to create an enhanced NFT.
+* Games often go through surges, peaking and then have a declining player base. The steady state could be ten times fewer game players than at the peak. There needs to be enough NFTs for all the players to play the game during the peak, but then for there not to be a glut of NFTs when the peak has passed. 
+* As time goes on, there is a tendency to have attribute inflation, where the capabilities of new NFTs are better than previous NFTs, thus providing a reason to purchase or strive to obtain the new NFT. This may make early adoptors feel disenfranchised, as their investment in the early NFTs may feel like a poor investment. They may not want to invest in the new NFTs because they might be concerned that the new NFTs may also be superseded.
+* Having more sources of ERC 20 tokens than sinks results in the token price continually having downward pressure. That is, it is easy to hand out game tokens. However, if there aren't enough compelling things for game players to do with the token, then they will dump the token, swapping it at whatever price they can get. If there are compelling reasons for owning the token, then new game players may want to buy the token, this creating a new sink for the token. 
 
+Possible solutions to these issues:
 
-
-# Transactions Submission
-
-
+* When offering pre-sale NFTs, you should have different rarities with different capabilities at different prices. Typical rarity categories are: Common, Uncommon, Rare, Epic, Legendary, and Mythical. 
+* Have a limited number of NFTs initially. Even if the initial generation of NFTs sell out, do not create more of those NFTs. Doing so would dilute the value of the NFTs for your early adopters. Instead, quickly create a second generation of NFTs. 
+* Consume NFTs as a part of crafting. That is, consume NFTs as a way to _power up_ or enhance the capabilities of an NFT. For example, three level one NFTs might be consumed to create a level two NFT.
+* Once a game is established, new NFTs can be introduced that offer benefits on a different dimension to existing NFTs. Alternatively, they could be an alternative to a rarer, early NFT, but with some important differences to ensure they don't make the earlier NFT redundant.
+* Possible sinks for ERC 20 tokens:
+  * A component for crafting enhanced NFTs.
+  * A consumable within a game. For example, travelling from planet A to B costs 100 game tokens. Players who don't have any of the game tokens can only play on planet A and can't travel between planets.
+  * Donations. Game players could donate to a fund that the game studio matches token for token; with the funds going to content creators. However, the content creators will then wish to cash out the tokens to cover their costs. 
+  * Staking. The idea is that game players acquire some tokens and then put the tokens in a non-custodial contract, and are then paid a reward for holding the tokens. Often for compliance reasons there needs to be an activity check, where the game player plays the game or trades NFTs. Doing staking takes tokens out of circulation, thus reducing the supply of tokens. However, staking does not consume tokens as such. The token rewards become a source of tokens.
+  * Liquidity pool staking: Stakers can put tokens into a DeFi liquidity pool, thus allowing game players to swap other tokens for the game token. Unless a single sided pool is constructed, this requires some of the other tokens to be staked. Stakers earn rewards due to swap fees. Stakers profit when there are many transactions and the exchange rate is steady. If there are few transactions then stakers feel that they are tying up their assets for little gains. If there is price volatility then the stakers are likely to encounter losses. As such, this type of sink is not appropriate for most game players.
 
 # Transaction Finality and Latency
+
+# Game Logic Matching
+
+To prevent cheating, the logic on a game app that involves a server must be replicated on the server. If this is not done, then some game players might modify the game app to give themselves an unfair advantage. If part of the game logic involves consuming tokens under certain conditions, then that game logic may have to be implemented in a Solidity contract on the blockchain. 
+
+Issues with this:
+
+* Implementing secure Solidity contracts is very hard.
+
+Possible solutions:
+
+* Make contracts upgradeable.
+* Ensure on-chain logic is as simple as possible. 
+* Test everything. Use AI to audit the code. Have a blockchain expert audit the code. 
+* Monitor the deployed code, watching for misuse and attacks.
 
 # External System Dependency
 
