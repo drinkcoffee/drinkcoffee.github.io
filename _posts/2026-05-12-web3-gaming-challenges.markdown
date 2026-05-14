@@ -47,7 +47,7 @@ Game economics is complicated. Games that would have been successful outside the
 * Requiring NFTs to play a game will make the game impossible to play for game players who just want to try out the game. They will be blocked from enjoying the game, and possibly encouraging others who might invest in the game to play the game.
 * Games often go through surges, peaking and then have a declining player base. The steady state could be ten times fewer game players than at the peak. There needs to be enough NFTs for all the players to play the game during the peak, but then for there not to be a glut of NFTs when the peak has passed. 
 * As time goes on, there is a tendency to have attribute inflation, where the capabilities of new NFTs are better than previous NFTs, thus providing a reason to purchase or strive to obtain the new NFT. This may make early adoptors feel disenfranchised, as their investment in the early NFTs may feel like a poor investment. They may not want to invest in the new NFTs because they might be concerned that the new NFTs may also be superseded.
-* Having more sources of ERC 20 tokens than sinks results in the token price continually having downward pressure. That is, it is easy to hand out game tokens. However, if there aren't enough compelling things for game players to do with the token, then they will dump the token, swapping it at whatever price they can get. If there are compelling reasons for owning the token, then new game players may want to buy the token, this creating a new sink for the token. 
+* Having more sources of ERC 20 tokens than sinks results in the token price continually having downward pressure. That is, it is easy to hand out game tokens. However, if there aren't enough compelling things for game players to do with the token, then they will dump the token, swapping them at whatever price they can get. If there are compelling reasons for owning the token, then new game players may want to buy the token, this creating a new sink for the token. 
 
 Possible solutions to these issues:
 
@@ -55,12 +55,13 @@ Possible solutions to these issues:
 * Have a limited number of NFTs initially. Even if the initial generation of NFTs sell out, do not create more of those NFTs. Doing so would dilute the value of the NFTs for your early adopters. Instead, quickly create a second generation of NFTs. 
 * Consume NFTs as a part of crafting. That is, consume NFTs as a way to _power up_ or enhance the capabilities of an NFT. For example, three level one NFTs might be consumed to create a level two NFT.
 * Once a game is established, new NFTs can be introduced that offer benefits on a different dimension to existing NFTs. Alternatively, they could be an alternative to a rarer, early NFT, but with some important differences to ensure they don't make the earlier NFT redundant.
-* Possible sinks for ERC 20 tokens:
-  * A component for crafting enhanced NFTs.
-  * A consumable within a game. For example, travelling from planet A to B costs 100 game tokens. Players who don't have any of the game tokens can only play on planet A and can't travel between planets.
-  * Donations. Game players could donate to a fund that the game studio matches token for token; with the funds going to content creators. However, the content creators will then wish to cash out the tokens to cover their costs. 
-  * Staking. The idea is that game players acquire some tokens and then put the tokens in a non-custodial contract, and are then paid a reward for holding the tokens. Often for compliance reasons there needs to be an activity check, where the game player plays the game or trades NFTs. Doing staking takes tokens out of circulation, thus reducing the supply of tokens. However, staking does not consume tokens as such. The token rewards become a source of tokens.
-  * Governance. In addition to or rather than giving rewards, a game studio might allow stakers to have input on governance decisions about the future of the game.
+
+Possible sinks for ERC 20 tokens:
+* A component for crafting enhanced NFTs.
+* A consumable within a game. For example, travelling from planet A to B costs 100 game tokens. Players who don't have any of the game tokens can only play on planet A and can't travel between planets.
+* Donations. Game players could donate to a fund that the game studio matches token for token; with the funds going to content creators. However, the content creators will then wish to cash out the tokens to cover their costs. 
+* Staking. The idea is that game players acquire some tokens and then put the tokens in a non-custodial contract, and are then paid a reward for holding the tokens. Often for compliance reasons there needs to be an activity check, where the game player plays the game or trades NFTs. Doing staking takes tokens out of circulation, thus reducing the supply of tokens. However, staking does not consume tokens as such. The token rewards become a source of tokens.
+* Governance. In addition to or rather than giving rewards, a game studio might allow stakers to have input on governance decisions about the future of the game.
 
 
 # Transaction Finality and Latency
@@ -69,7 +70,7 @@ Transactions submitted to game servers are finalised in game server databases wi
 
 Transactions submitted to a blockchain are not immediately finalised. They are submitted to Remote Procedure Call (RPC) servers which gossip them to a block producing server. Initially, the transactions go into a transaction pool. The block producer takes transactions from the pool and puts them into blocks. The block producer chooses which transactions to include in blocks based on the price per unit gas that is being offered by the transaction submitter. If there are more transactions than can fit in a block, then the transaction may sit in the transaction pool waiting for the next block to be produced. 
 
-Most blockchains produce blocks at certain intervals, block periods. For Ethereum the block period (also called the block time) is twelve seconds. For Immutable zkEVM it is two seconds. If a transaction arrives in the transaction pool just after a block has been produced, then it will have to wait for almost the entire block period before it could be included in a block. Once a block has been produced, it is gossiped to other nodes in the blockchain network. 
+Most blockchains produce blocks at certain intervals known as the block period or block time. For Ethereum the block period is twelve seconds. For Immutable zkEVM it is two seconds. If a transaction arrives in the transaction pool just after a block has been produced, it will have to wait for almost the entire block period before it could be included in a block. Once a block has been produced, it is gossiped to other nodes in the blockchain network. 
 
 Different blockchains come to a consensus on the true (canonical) chain of blocks in different ways. These consensus protocols can lead to the possibility that a transaction is included in a block, but then that block is discarded in favour of an alternative block. This changing of the chain is called _reorganising_ or simply _reorg_. As such, users of the blockchain need to wait until their transaction has been included in a block which is deemed final based on the consensus rules of the blockchain. 
 
@@ -92,18 +93,18 @@ Possible solutions:
 
 # Gas
 
-Most blockchains use a certain amount of _gas_ to execute each instruction of a transactions execution. Historically, this has needed to be paid in the blockchain's native token. 
+Most blockchains use the concept of _gas_ to denote the amount of effort needed execute each instruction of a transactions execution. Historically, this has needed to be paid in the blockchain's native token. 
 
 Issues to consider:
 
-* Game players don't know what gas or the blockchain's native token is. They won't understand why they should pay using a currency they don't own for something they don't think they need. They just want to play a game. They don't care about your backend infrastructure.
-* Some blockchains such as Immutable zkEVM offer gas free transactions assuming the transactions are signed by Immutable Passport.
+* Game players don't know what gas is. They don't know what the blockchain's native token is. They likely didn't know your game uses a blockchain. They won't understand why they should pay using a currency they don't own for something they don't think they need. They just want to play a game. They don't care about your backend infrastructure.
+* Some blockchains such as Immutable zkEVM offer gas free transactions assuming the transactions are signed by a game player using Immutable Passport.
 * Some blockchains offer the ability for transactions to be sponsored. In this scenario, the game studio could pay for the players transactions. The issue with this is that most game related transactions are of low value. Subsidising these transactions could be a loss making venture. 
 
 
 # Game Logic Matching
 
-To prevent cheating, the logic on a game app that involves a server must be replicated on the server. If this is not done, then some game players might modify the game app to give themselves an unfair advantage. If part of the game logic involves consuming tokens under certain conditions, then that game logic may have to be implemented in a Solidity contract on the blockchain. 
+To prevent cheating, the logic in a game app that involves a server must be replicated on the server. If this is not done, then some game players might modify the game app to give themselves an unfair advantage. If part of the game logic involves consuming tokens under certain conditions, then that game logic may have to be implemented in a Solidity contract on the blockchain. 
 
 Issues with this:
 
@@ -111,7 +112,7 @@ Issues with this:
 
 Possible solutions:
 
-* Make contracts upgradeable.
+* Make contracts upgradeable. Doing this allows mistakes in the contract logic to be fixed. 
 * Ensure on-chain logic is as simple as possible. 
 * Test everything. Use AI to audit the code. Have a blockchain expert audit the code. 
 * Monitor the deployed code, watching for misuse and attacks.
@@ -133,9 +134,9 @@ When the liquidity pool is established, the initial exchange price needs to be s
 
 The liquidity pool can be initialised with any amount of each token. If only game tokens are used to initialise the liquidity pool, and none of the other token, then people will be able to swap other tokens for game tokens, but not visa-versa. 
 
-Another factor which must be considered when establishing the liquidity pool is the liquidity depth. Having more tokens per price point will tend to lead to a more stable price. However, this then might limit the required dynamic pricing required to move the price to a point that game players are prepared to pay.
+Another factor which must be considered when establishing the liquidity pool is the liquidity depth. Having more tokens per price point will tend to lead to a more stable price. However, this then might limit the dynamic pricing required to move the price to a point that game players are prepared to pay.
 
-The final consideration when constructing a liquidity pool is the fee tier to use. A fee tier of 1% is typical for game tokens. The reflects the volatility of the game token; the risk the liquidity provider is taking on by holding the game token.
+The final consideration when constructing a liquidity pool is the fee tier to use. A fee tier of 1% is typical for game tokens. This reflects the volatility of the game token; the risk the liquidity provider is taking on by holding the game token.
 
 
 # Token Listing
