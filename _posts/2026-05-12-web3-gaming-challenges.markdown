@@ -58,7 +58,7 @@ Possible solutions to these issues:
   * Donations. Game players could donate to a fund that the game studio matches token for token; with the funds going to content creators. However, the content creators will then wish to cash out the tokens to cover their costs. 
   * Staking. The idea is that game players acquire some tokens and then put the tokens in a non-custodial contract, and are then paid a reward for holding the tokens. Often for compliance reasons there needs to be an activity check, where the game player plays the game or trades NFTs. Doing staking takes tokens out of circulation, thus reducing the supply of tokens. However, staking does not consume tokens as such. The token rewards become a source of tokens.
   * Governance. In addition to or rather than giving rewards, a game studio might allow stakers to have input on governance decisions about the future of the game.
-  * Liquidity pool staking: Stakers can put tokens into a DeFi liquidity pool, thus allowing game players to swap other tokens for the game token. Unless a single sided pool is constructed, this requires some of the other tokens to be staked. Stakers earn rewards due to swap fees. Stakers profit when there are many transactions and the exchange rate is steady. If there are few transactions then stakers feel that they are tying up their assets for little gains. If there is price volatility then the stakers are likely to encounter losses. As such, this type of sink is not appropriate for most game players.
+
 
 # Transaction Finality and Latency
 
@@ -105,7 +105,26 @@ Possible solutions:
 * Test everything. Use AI to audit the code. Have a blockchain expert audit the code. 
 * Monitor the deployed code, watching for misuse and attacks.
 
-# External System Dependency
+# Asset Sync
 
 
- 
+
+
+# DEX Liquidity Pool Design
+
+For a game token to be tradable, there needs to be a liquidity pool set-up on a Decentralised Exchange (DEX). This allows game players to swap other tokens for the game token. Setting up a liquidity pool requires careful consideration to get right.
+
+When a liquidity pool is created some amount of game token and some amount of other tokens need to be deposited into a DEX contract. The other token needs to be a token that has many other token pairs available on the DEX, thus allowing the game token to be swapped with a variety of tokens. The liquidity depth (the amount of liquidity at each price point) needs to be deep enough such that large price slippage doesn't occur during swaps.
+
+When the liquidity pool is established, the initial exchange price needs to be set. Doing a pre-sale of the token to do some price discovery can help determine this exchange rate.
+
+The liquidity pool can be initialised with any amount of each token. If only game tokens are used to initialise the liquidity pool, and none of the other token, then people will be able to swap other tokens for game tokens, but not visa-versa. 
+
+Another factor which must be considered when establishing the liquidity pool is the liquidity depth. Having more tokens per price point will tend to lead to a more stable price. However, this then might limit the required dynamic pricing required to move the price to a point that game players are prepared to pay.
+
+The final consideration when constructing a liquidity pool is the fee tier to use. A fee tier of 1% is typical for game tokens. The reflects the volatility of the game token; the risk the liquidity provider is taking on by holding the game token.
+
+
+# Token Listing
+
+For game players to see your ERC 20 game token in their wallet, the wallet provider will need to enable your token. Setting this up and ensuring your token remains available in the wallet will require  collaboration with the wallet provider.
