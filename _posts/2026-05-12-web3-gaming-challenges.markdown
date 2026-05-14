@@ -7,6 +7,8 @@ categories: web3 gaming
 
 Web3 gaming has had some success with Axie Infinity and Gods Unchained, but has failed to gain mainstream traction. This article explores the challenges of creating successful web3 games.
 
+Before I start on the challenges, please keep in mind the substantial advantages of web3 games: true ownership of assets, open player economies allowing trading and loaning of assets, the possibility for decentralised governance, plus transparency and fairness.
+
 In the article I use the terms _many game players_ and _some game players_. This is based on anecdotal discussions only, and not quantitative research.
 
 # Game Players & Wallets
@@ -89,6 +91,14 @@ Possible solutions:
 
 # Gas
 
+Most blockchains use a certain amount of _gas_ to execute each instruction of a transactions execution. Historically, this has needed to be paid in the blockchain's native token. 
+
+Issues to consider:
+
+* Game players don't know what gas or the blockchain's native token is. They won't understand why they should pay using a currency they don't own for something they don't think they need. They just want to play a game. They don't care about your backend infrastructure.
+* Some blockchains such as Immutable zkEVM offer gas free transactions assuming the transactions are signed by Immutable Passport.
+* Some blockchains offer the ability for transactions to be sponsored. In this scenario, the game studio could pay for the players transactions. The issue with this is that most game related transactions are of low value. Subsidising these transactions could be a loss making venture. 
+
 
 # Game Logic Matching
 
@@ -107,7 +117,9 @@ Possible solutions:
 
 # Asset Sync
 
+If in-game assets are linked to NFTs, then the game needs to know which NFTs a player owns. For games that allow for loaning of NFTs, then the game needs to know which NFTs a player has access to. 
 
+The timing of when to do _Asset Sync_ is important. If a game continually synchronises which NFTs are owned, then game play could be disrupted when a player suddenly owns or no longer owns a certain NFT. However, if the NFTs owned by a player are snapshotted for a game sequence, then game players might cheat, starting the game play with a certain asset, and then transferring the underlying NFT to a friend, who is then able to start the game play based on the same NFT. 
 
 
 # DEX Liquidity Pool Design
