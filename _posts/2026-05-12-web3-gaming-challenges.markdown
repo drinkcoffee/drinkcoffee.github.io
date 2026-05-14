@@ -17,7 +17,7 @@ Game players need a wallet to play web3 games. The wallet shows what assets a pl
 
 Most cryptocurrency wallets use BIP 39 seed phrases as the secret from which private keys are generated. Even experienced deeply technical people sometimes lose their seed phrase and are then unable to access their assets. Additionally, with this type of wallet, every transaction must be signed. This complexity of needing to remember a seed phrase along with the interrupted game play of needing to sign all transactions makes this type of wallet inappropriate for web3 gaming. 
 
-Web3 gaming wallets such as Immutable's Passport, are facilitated via social login. That is allowing logging into the wallet via Gmail, AppleId, Facebook, and via email pin code. Within games, transactions can be _invisibly_ signed, where the game app submits transactions on behalf of the player.
+Web3 gaming wallets such as Immutable's Passport, are facilitated via social login. That is allowing logging into the wallet via Gmail, Apple Id, Facebook, or via email pin code. Within games, transactions can be _invisibly_ signed, where the game app submits transactions on behalf of the player.
 
 Issues with web3 gaming wallets are:
 
@@ -31,19 +31,20 @@ Possible solutions to these issues are:
 
 * Login should be delayed as long as possible. 
 * Once a player is logged in, they should never be logged out. 
-* A possible solution is:
-  * Players play the game without logging in.
-  * When the player needs to submit a transaction or receive an asset, this happens via a game studio controlled wallet. 
-  * Game players only sign in when they want to sell assets or buy assets. At this point, the assets in the game studio controlled wallet can be transferred to the game player's wallet. This delayed sign-in solves for players being able, but reluctant to enter credentials: by the time they are entering credentials they perceive they have something of value, and hence it is worth protecting, hence it makes sense to use credentials. However, this doesn't solve for game players who find login too complex.
+
+Combining these ideas into an overall solution:
+* Players play the game without logging in.
+* When the player needs to submit a transaction or receive an asset, this happens via a game studio controlled wallet. 
+* Game players only sign in when they want to sell assets or buy assets. At this point, the assets in the game studio controlled wallet can be transferred to the game player's wallet. This delayed sign-in solves for players being able, but reluctant to enter credentials. By the time they are entering credentials they perceive they have something of value. They see it as being worth protecting. Hence, it makes sense to use credentials. However, this doesn't solve for game players who find login too complex.
 
 
 # Game Economics
 
-Game economics is complicated. Games that would have been successful outside the context of web3 fail due to their web3 aspects. Unpacking this:
+Game economics is complicated. Games that would have been successful outside the context of web3 can fail due to their web3 aspects. Unpacking this:
 
 * Pre-selling NFTs prior to game launch develops expectations on the utility of the NFTs. Game players may be dissatisfied with the game because the utility of an NFT they purchased (possibly at an inflated price on a secondary market) doesn't match their expectations.
 * Mis-pricing NFTs and ERC 20s: If the market place of game players is prepared to pay a certain price, say $1, for an NFT in a game they know little about, but the base price for NFTs in the game is $10, then few of the NFTs will be sold. 
-* Requiring NFTs to play the game will make the game impossible to play for game players who just want to try out the game. They will be blocked from enjoying the game, and possibly encouraging others who might invest in the game to play the game.
+* Requiring NFTs to play a game will make the game impossible to play for game players who just want to try out the game. They will be blocked from enjoying the game, and possibly encouraging others who might invest in the game to play the game.
 * Games often go through surges, peaking and then have a declining player base. The steady state could be ten times fewer game players than at the peak. There needs to be enough NFTs for all the players to play the game during the peak, but then for there not to be a glut of NFTs when the peak has passed. 
 * As time goes on, there is a tendency to have attribute inflation, where the capabilities of new NFTs are better than previous NFTs, thus providing a reason to purchase or strive to obtain the new NFT. This may make early adoptors feel disenfranchised, as their investment in the early NFTs may feel like a poor investment. They may not want to invest in the new NFTs because they might be concerned that the new NFTs may also be superseded.
 * Having more sources of ERC 20 tokens than sinks results in the token price continually having downward pressure. That is, it is easy to hand out game tokens. However, if there aren't enough compelling things for game players to do with the token, then they will dump the token, swapping it at whatever price they can get. If there are compelling reasons for owning the token, then new game players may want to buy the token, this creating a new sink for the token. 
