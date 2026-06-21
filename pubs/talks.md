@@ -46,6 +46,10 @@ Raghavendra Ramesh and Peter Robinson, **Ethereum 2 Cross Shard Techniques**, Et
 
 # Solidity
 
+Peter Robinson, **Prover Killing Contracts**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=pOV8aTqQEiI](https://www.youtube.com/watch?v=pOV8aTqQEiI), 2026.
+
+Peter Robinson, **Vibe Coding a Staking Contract in Solidity**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=PmgNiywmCDQ](https://www.youtube.com/watch?v=PmgNiywmCDQ), 2026.
+
 Peter Robinson and Serge Radinovich, **Rust & Solidity: Interacting with Solidity on EVM Chains with Rust**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=FVJgtLy8LNY](https://www.youtube.com/watch?v=FVJgtLy8LNY), 2025.
 
 Peter Robinson, **Settlement contract to safely buy an access controlled DeFi project, with proxy**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=x2cgbWzf1F8](https://www.youtube.com/watch?v=x2cgbWzf1F8), 2023.
@@ -74,6 +78,8 @@ Peter Robinson, **Advanced Solidity and Design Patterns**, Ethereum Engineering 
 
 # Decentralised Finance (DeFi)
 
+Peter Robinson, **NFT Claim Contract for Immutable zkEVM**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=qfnbh3J9q3M](https://www.youtube.com/watch?v=qfnbh3J9q3M), 2025.
+
 Peter Robinson, **A mental model for Uniswap V3 Liquidity Pools on L2s & Profitability Analysis**, Etheruem Engineering Group Meet-up, [https://www.youtube.com/watch?v=LfsW-aC8bIs](https://www.youtube.com/watch?v=LfsW-aC8bIs), 2024.
 
 # Stateless Ethereum Research
@@ -83,6 +89,8 @@ Horacio Mijail and Peter Robinson, **Ethereum 1.x Stateless & the Witness Specif
 
 
 # Ethereum
+
+Peter Robinson, **EIP 7702: Smart Contract Accounts / Set Code Transaction**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=gO14t2KIjS4](https://www.youtube.com/watch?v=gO14t2KIjS4), 2026.
 
 Peter Robinson, **Seed Phrases, Derivation Paths, Private Keys, Signatures, & Accounts. BIP32, BIP39 & BIP44**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=NrijkY8jP4I](https://www.youtube.com/watch?v=NrijkY8jP4I), 2024.
 

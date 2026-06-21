@@ -4,9 +4,9 @@ title: Experience
 permalink: /experience/
 ---
 
-# Immutable (March 2023 to Present): Head of Blockchain Research
+# Immutable (March 2023 to June 2026): Head of Blockchain Research
 
-[Immutable](https://immutable.com) is creating a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across six main areas:
+[Immutable](https://immutable.com) created a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across six main areas:
 
 **Blockchain Strategy**: Working at the leading edge of blockchain development has meant that there have been many challenges and changes. I have guided the engineering team through these evolving complexities, providing strategic guidance on blockchain client selection, consensus protocols, zero knowledge proof systems, staking systems, and DeFi protocols.
 
@@ -20,12 +20,12 @@ permalink: /experience/
 
 **Partnerships**: I have maintained relationships with blockchain services vendors and negotiated contract renewals.
 
-# Ethereum Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
-The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each week or two. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 50K views. I am the driving force behind the group, and have personally delivered more than a dozen talks. For more information see my meetup [project page](../projects/meetup).
+# Ethereum & AI Engineering Group Meet-up (December 2017 to Present): Organiser & Speaker
+The [Ethereum & AI Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each two weeks. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, law, social aspects of blockchain, the intersection of AI and blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 55K views. I am the driving force behind the group, and have personally delivered more than a thirty talks. For more information see my meetup [project page](../projects/meetup).
 
 # Whatgame Studios (December 2024 to Present): Co-Founder / Game Designer / Game Dev
 
-Whatgame Studios is developing a range of daily play puzzle games. In the first game, [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. The game is available on Apple's App Store and Google Play. I have helped with game design, implementation and operations.
+Whatgame Studios is developing a range of daily play puzzle games. The games are Unity apps with Vercel Fast API backends. The games are available on Apple's App Store and Google Play. In [14Numbers](https://whatgamestudios.com/14numbers/), you have the numbers one to  ten, 25, 50, 75, and 100, and need to come up with three solutions that solve for the daily target number. With [Worcadian](https://whatgamestudios.com/worcadian/), starting with a seed word, create as many words as you can using only the letters A to Z. I have helped with game design, implementation and operations.
 
 # Uniswap Foundation (February to March 2023): Advisor / Consultant
 I have advised on [Uniswap's Cross-Chain Bridge Assessment Process](https://gov.uniswap.org/t/cross-chain-bridge-assessment-process/20148/47).
