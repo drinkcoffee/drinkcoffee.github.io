@@ -74,6 +74,29 @@ Oracle Labs is the research arm for Oracle, focusing on applied research that pr
 My departure from Oracle after less than five months was driven by a clash of leadership style. My preference for a collaborative approach did not match the expecations for a confrontational, adversarial approach. 
 
 
+# RSA, The Security Division of EMC (July 2003 to October 2016): Senior Engineering Manager
+[RSA](https://www.rsa.com/) developed a range of cryptographic and security products ranging from libraries to distributed system applications. I worked in a range of roles, starting out as a senior software engineer in the support team, then team leader, engineering manager and finally senior engineering manager leading multiple advanced development teams. 
+
+The main projects I worked on or led:
+
+**SecurID Access (January 2014 to April 2016)** is RSA’s new multi-factor authentication product. My team developed a cryptographic library which provides strong crypto and secure storage across Google Android, Apples iOS, Microsoft Azure, and VMware vSphere platforms.   
+
+**Guardian Angel (November 2010 to July 2014)** was a virtual appliance which offered cryptographic, certificate, and key management services via REST APIs. 
+
+**Remote Attestation PoC (April to December 2014)** was delivered for EMC’s Public Cloud Strategy group. It leveraged patented technology I had invented and co-invented to allow un-trusted clients to securely connect with services.  
+
+**Blockchain and Smart Contracts Prototype (May to October 2016)** was a PoC which demonstrates how to provide an improved security platform for Blockchain and Smart Contract applications. 
+
+**Distributed Truth (January 2016 to March 2016)** was a PoC which uses Distributed Ledger technology to reliably record history in the face of active attackers who fully control parts of a distributed system. 
+
+**Distributed Credential Protection (2011 to 2012)** was a distributed cryptography product. I helped convert pure research crypto mathematics to a proto-type, assembled a team, and then managed the team which developed this technology and delivered it to market. 
+
+**RSA CNG (2010)** was an implementation of Microsoft's Crypto Next Generation. I negotiated the requirements, recruited the team, and managed the development team.  
+
+**Data Protection Manager 2.7 (2009)** is a C/Java/C# client and Java server / appliance key management product. I negotiated the requirements, assembled the team, and then managed teams in Brisbane and in Bangalore, and coordinated efforts from other teams / contributors in Chennai, Shanghai, Bedford, Vancouver, and San Mateo.
+
+**BSAFE Libraries (2003 to 2008)** were cryptographic, PKI, and TLS libraries written in Java and C.
+
+
 # Many other projects
 When I get around to it, I will write up some of my earlier employment history.
-
