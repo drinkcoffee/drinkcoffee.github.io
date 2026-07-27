@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Ethereum Engineering Group Meetup
+title: Ethereum & AI Engineering Group Meetup
 permalink: /projects/meetup/
 ---
 
-The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each two weeks. We have speakers from all over the world who deliver talks on Solidity, the Ethereum platform, cryptography, crosschain & bridges, applications, economics, law, social aspects of blockchain, and much more. All talks are recorded and appear on [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 50K views. Pick-up a cool T-shirt at the [Merch Store](https://ethereum-engineering-group-shop.fourthwall.com/).
+The [Ethereum & AI Engineering Group Meet-up](https://www.meetup.com/ethereum-engineering/) is a group that meets via Zoom each two weeks. We have speakers from all over the world who deliver talks on Ethereum related topics, AI related topics, and the intersection of the two. Talks range from research and platform architectures, to applications, economics, law, psychology and sociology. All talks are recorded and appear on [YouTube](https://www.youtube.com/c/ethereumengineeringgroup). Talks commonly have hundreds to thousands of views, with the [most viewed talk](https://www.youtube.com/watch?v=RxL_1AfV7N4) currently having 55K views. Pick-up a cool T-shirt at the [Merch Store](https://ethereum-engineering-group-shop.fourthwall.com/).
 
 
 
@@ -12,14 +12,13 @@ The [Ethereum Engineering Group Meet-up](https://www.meetup.com/ethereum-enginee
 # History
 
 
-The meetup was created to help foster Ethereum engineering talent in Brisbane, Australia. The focus was to have more people who could be hired into ConsenSys's Protocol Engineering team (at the time called the PegaSys team). The team was creating Hyperledger Besu (originally called NewClient, and then Pantheon).
-
+The meetup was created to help foster Ethereum engineering talent in Brisbane, Australia. The focus was to have more people who could be hired into ConsenSys's Protocol Engineering team (at the time called the PegaSys team). The team was creating Hyperledger Besu, an Ethereum Client (originally called NewClient, and then Pantheon).
 
 The first meetings to organise the logistics of the meetup occurred in late 2017, with the first talk taking place in early 2018. Early talks occurred at ThoughtWorks' Brisbane office's meeting space. This moved to various locations in WeWork in Brisbane, where ConsenSys had an office. The meetup moved online in March 2020 due to the COVID pandemic.
 
-
 Moving to Zoom has provided great opportunities, allowing for speakers and audience members from all over the world. Having more control over the recording environment has also led to a dramatic improvement in the audio and video quality of the recordings on YouTube.
 
+From 2018 to 2025 there were about half a dozen talks with aspects of AI. In 2026, the meetup changed its focus to explicitly include AI talks as well as Ethereum talks. 
 
 The original organisers of the meetup were Brett Henderson, Rob Dawson, and myself, Peter Robinson. Sandra Johnson, Joanne Fuller, David Hyland-Wood, and Raghavendra Ramesh have provided significant assistance over many years to make the meetup what it is today.
 
@@ -32,16 +31,25 @@ The original organisers of the meetup were Brett Henderson, Rob Dawson, and myse
 
 Talks have been on a broad range of topics:
 
-* Ethereum protocol and Ethereum Improvement Proposals (EIPs)
-* Layer 2 protocols, zero knowledge proofs, Optimistic and Validity Rollups
-* Crosschain protocols
-* Consensus protocols
-* Solidity development and tooling
-* Decentralised Finance (DeFi)
-* Oracles
-* Applications: Goveranance, Supply chains, Games, Security, Space
-* Hack and Vulnerabilities
-* AI
+* Blockchain: 
+  * Ethereum protocol and Ethereum Improvement Proposals (EIPs)
+  * Layer 2 protocols, zero knowledge proofs, Optimistic and Validity Rollups
+  * Crosschain protocols
+  * Consensus protocols
+  * Solidity development and tooling
+  * Decentralised Finance (DeFi)
+  * Oracles
+* AI:
+  * Machine Learning
+  * Reinforcement Learning
+  * LLM design
+  * Decentralised learning
+  * AI Safety
+  * AI Agent Design
+  * Agentic payments
+  * Effective Vibe Coding
+* Applications
+* Hacks and Vulnerabilities
 * Standardisation
 * Formal Methods
 * Economics
@@ -57,7 +65,7 @@ Please avoid marketing pitches. If your talk is about a specific product, then p
 
 ## Who are the audience?
 
-There are 1752 members of the meetup.com group and 8120 subscribers to the YouTube channel. These people come from widely varying backgrounds: blockchain infrastructure developers, application developers, researchers, enthusiasts, venture capitalists, recruiters, and novices. The audience typically self-selects to attend talks or watch videos based on the title and their perception of the likely content. That said, speakers should assume that the audience will consist of many people conversant with blockchain technologies, and could well include world experts on their topic.
+There are 1793 members of the meetup.com group and 8960 subscribers to the YouTube channel. These people come from widely varying backgrounds: infrastructure developers, application developers, researchers, enthusiasts, venture capitalists, recruiters, and novices. The audience typically self-selects to attend talks or watch videos based on the title and their perception of the likely content. That said, speakers should assume that the audience will consist of many people conversant with their topic, and could well include world experts on their topic.
 
 
 ## How long should my talk be?
@@ -99,11 +107,6 @@ Yes, you will present your slides.
 ## Will my slides be published?
 
 Yes. I ask you to put a PDF copy of your slides onto a Google Drive. I will make a copy of the slides, and then share in view-only mode that copy to anyone with the link. I will put the link into the description of the recording of the talk on YouTube.
-
-
-## What are LastSlides?
-
-I have three slides that I ask that you put at the end of your talk. They contain a link to the [Merch Store](https://ethereum-engineering-group-shop.fourthwall.com/), details of future talks, and links to the [meetup](https://www.meetup.com/ethereum-engineering/) and [YouTube](https://www.youtube.com/channel/UC2iGGbbKzS2hYwcZ9xBS-6A) sites.
 
 
 ## Will my talk be published?
