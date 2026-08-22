@@ -4,6 +4,14 @@ title: Experience
 permalink: /experience/
 ---
 
+# Independent Researcher - Decentralised LLM Training (July 2026 to Present): Researcher
+
+I have been researching ways of improving pre and post training for decentralised LLMs:
+
+* Delivered talks on LLM Design and Model Parallelism.
+* Used PyTorch for pre and post training experiments.
+* Used LangChain to create AI agents: games marketer, fashion company analyser, and fashion style recommender. 
+
 # Immutable (March 2023 to June 2026): Head of Blockchain Research
 
 [Immutable](https://immutable.com) created a world leading web3 gaming platform based on the Immutable zkEVM. As Head of Blockchain Research I have worked across six main areas:
