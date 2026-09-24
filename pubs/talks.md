@@ -7,7 +7,7 @@ permalink: /pubs/talks/
 
 # AI
 
-Peter Robinson * Wendy Robinson, **AI Agent Design using LangChain and Vercel**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=OqAHzUFkayU](https://www.youtube.com/watch?v=OqAHzUFkayU), 2026.
+Peter Robinson & Wendy Robinson, **AI Agent Design using LangChain and Vercel**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=OqAHzUFkayU](https://www.youtube.com/watch?v=OqAHzUFkayU), 2026.
 
 Peter Robinson, **AI Agent Micropayment for MCP Services using x402**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=xge-iH7oC30](https://www.youtube.com/watch?v=xge-iH7oC30), 2026.
 
