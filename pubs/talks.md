@@ -4,6 +4,22 @@ title: Talks
 permalink: /pubs/talks/
 ---
 
+
+# AI
+
+Peter Robinson * Wendy Robinson, **AI Agent Design using LangChain and Vercel**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=OqAHzUFkayU](https://www.youtube.com/watch?v=OqAHzUFkayU), 2026.
+
+Peter Robinson, **AI Agent Micropayment for MCP Services using x402**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=xge-iH7oC30](https://www.youtube.com/watch?v=xge-iH7oC30), 2026.
+
+Peter Robinson, **Introduction to LLM Design + Covenant-72B LLM: Distributed Training**: Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=TlVQbiTdY48](https://www.youtube.com/watch?v=TlVQbiTdY48), 2026.
+
+Peter Robinson, **LLM Model Parallelism**:  Ethereum & AI Engineering Group Meet-up, [https://www.youtube.com/watch?v=DryXbg48bLc](https://www.youtube.com/watch?v=DryXbg48bLc), 2026. 
+
+Peter Robinson, **Vibe Coding a Staking Contract in Solidity**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=PmgNiywmCDQ](https://www.youtube.com/watch?v=PmgNiywmCDQ), 2026.
+
+Peter Robinson, **Using AI to find bugs in Solidity Code**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=J7dUOSPG0WY](https://www.youtube.com/watch?v=J7dUOSPG0WY), 2023.
+
+
 # Crosschain & Bridges
 
 Ermyas Abebe and Peter Robinson, **Crosschain Risk Framework**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=vqr-B_86M0E](https://www.youtube.com/watch?v=vqr-B_86M0E), 2023.
@@ -54,7 +70,7 @@ Peter Robinson and Serge Radinovich, **Rust & Solidity: Interacting with Solidit
 
 Peter Robinson, **Settlement contract to safely buy an access controlled DeFi project, with proxy**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=x2cgbWzf1F8](https://www.youtube.com/watch?v=x2cgbWzf1F8), 2023.
 
-Marc Bown, Ryan Teoh, and Peter Robvinson, **Immutable's Smart Contract Secure Development Process**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=BFZ-50u3PXk](https://www.youtube.com/watch?v=BFZ-50u3PXk), 2023.
+Marc Bown, Ryan Teoh, and Peter Robinson, **Immutable's Smart Contract Secure Development Process**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=BFZ-50u3PXk](https://www.youtube.com/watch?v=BFZ-50u3PXk), 2023.
 
 Peter Robinson, **Using AI to find bugs in Solidity Code**, Ethereum Engineering Group Meet-up, [https://www.youtube.com/watch?v=J7dUOSPG0WY](https://www.youtube.com/watch?v=J7dUOSPG0WY), 2023.
 

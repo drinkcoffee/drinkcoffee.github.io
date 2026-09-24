@@ -4,13 +4,14 @@ title: Experience
 permalink: /experience/
 ---
 
-# Independent Researcher - Decentralised LLM Training (July 2026 to Present): Researcher
+# Freelance (July 2026 to Present): AI Researcher and Dev
 
-I have been researching ways of improving pre and post training for decentralised LLMs:
+I have worked as a freelancer on a variety of projects:
 
-* Delivered talks on LLM Design and Model Parallelism.
-* Used PyTorch for pre and post training experiments.
-* Used LangChain to create AI agents: games marketer, fashion company analyser, and fashion style recommender. 
+* AI Agent design & implementation: Used LangChain to create multiple AI agents: games marketer, fashion company analyser, and fashion style recommender chat bot. Delivered a talk on AI agent design principles:  [https://www.youtube.com/watch?v=OqAHzUFkayU](https://www.youtube.com/watch?v=OqAHzUFkayU.)
+* Agentic payment security with a focus on the x402 ecosystem: Developed an analysis framework for the x402 ecosystem, delivered a talk on x402, wrote an academic paper (in review for a conference) on x402 ecosystem analysis. [https://www.youtube.com/watch?v=xge-iH7oC30](https://www.youtube.com/watch?v=xge-iH7oC30).
+* Researched LLM design and Model Parallelism. Used PyTorch for pre and post training experiments. Delivered talks on LLM design and model parallelism. See: [https://www.youtube.com/watch?v=TlVQbiTdY48](https://www.youtube.com/watch?v=TlVQbiTdY48) and [https://www.youtube.com/watch?v=DryXbg48bLc](https://www.youtube.com/watch?v=DryXbg48bLc). 
+
 
 # Immutable (March 2023 to June 2026): Head of Blockchain Research
 
